@@ -1,25 +1,25 @@
-﻿# XNVD Realistimo feed
+﻿# XNVD public feeds
 
-Public XML feed for Realistimo import.
+Static feeds for portal advertising channels.
 
 ## URLs
 
-After Vercel is connected to this repo, use:
+- Realistimo XML: https://xnvd-feed.vercel.app/realistimo.xml
+- alo.bg JSON: https://xnvd-feed.vercel.app/alo.json
 
-- `https://<your-project>.vercel.app/realistimo.xml`
-- `https://<your-project>.vercel.app/feed/realistimo.xml` (rewrite)
-
-Until then, raw GitHub works for testing:
+Raw GitHub fallbacks:
 
 - https://raw.githubusercontent.com/penevxnvd-dev/xnvd-feed/main/realistimo.xml
+- https://raw.githubusercontent.com/penevxnvd-dev/xnvd-feed/main/alo.json
 
-## Generate
+Root files (`realistimo.xml`, `alo.json`) are required for Vercel static hosting.
 
-From `XNVD-Automation`:
+## Generate (from XNVD-Automation)
 
 ```bash
 npm run realistimo:feed:build -- --ids=108857,92555,92785
 npm run realistimo:feed:push
-```
 
-`realistimo.xml` must live at the **repo root** so Vercel static hosting serves `/realistimo.xml` (not `/public/...`).
+npm run alo:feed:build -- --from-realistimo --ids=108857,92555,92785
+npm run alo:feed:push
+```
