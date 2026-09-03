@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "cleanUrls": true,
+  "cleanUrls": false,
   "headers": [
     {
       "source": "/realistimo.xml",
@@ -9,7 +9,17 @@
         { "key": "Cache-Control", "value": "public, max-age=300, s-maxage=300" },
         { "key": "Access-Control-Allow-Origin", "value": "*" }
       ]
+    },
+    {
+      "source": "/feed/realistimo.xml",
+      "headers": [
+        { "key": "Content-Type", "value": "application/xml; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=300, s-maxage=300" },
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
     }
   ],
-  "rewrites": [{ "source": "/feed/realistimo.xml", "destination": "/realistimo.xml" }]
+  "rewrites": [
+    { "source": "/feed/realistimo.xml", "destination": "/realistimo.xml" }
+  ]
 }
