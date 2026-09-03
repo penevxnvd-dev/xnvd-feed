@@ -1,4 +1,4 @@
-﻿# XNVD public feeds
+# XNVD public feeds
 
 Static feeds for portal advertising channels.
 
