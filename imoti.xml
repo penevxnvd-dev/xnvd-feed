@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-06 15:00:04</updated>
+    <updated>2026-09-07 08:36:26</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -20,6 +20,10 @@
             <SurfaceAll>80</SurfaceAll>
             <EstateRegion>11</EstateRegion>
             <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>6131</EstateSubRegion>
+            <EstateSubRegionName>Метро</EstateSubRegionName>
+            <WorldArea>6131</WorldArea>
+            <WorldAreaName>Метро</WorldAreaName>
             <Latitude>42.523388</Latitude>
             <Longtitude>27.442946</Longtitude>
             <Zoom>17</Zoom>
@@ -62,6 +66,10 @@
             <SurfaceAll>27</SurfaceAll>
             <EstateRegion>11</EstateRegion>
             <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>549</EstateSubRegion>
+            <EstateSubRegionName>Акациите</EstateSubRegionName>
+            <WorldArea>549</WorldArea>
+            <WorldAreaName>Акациите</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <Description><![CDATA[Компания Х представя на Вашето внимание едностаен апартамент в Акациите!
