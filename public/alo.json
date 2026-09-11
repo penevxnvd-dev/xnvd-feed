@@ -18,7 +18,7 @@
     "construction_type": "Тухла",
     "construction_year": "2026",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [],
     "contacts": {
@@ -60,7 +60,7 @@
     "construction_type": "Тухла",
     "construction_year": "2011",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -105,7 +105,7 @@
     "construction_type": "Тухла",
     "construction_year": "2015",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -149,7 +149,7 @@
     "construction_type": "Тухла",
     "construction_year": "2017",
     "floor_number": "4",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -194,7 +194,7 @@
     "construction_type": "Тухла",
     "construction_year": "2010",
     "floor_number": "6",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -239,7 +239,7 @@
     "construction_type": "Тухла",
     "construction_year": "2015",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -327,7 +327,7 @@
     "construction_type": "Тухла",
     "construction_year": "2010",
     "floor_number": "1",
-    "floor_position": "първи етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -409,7 +409,7 @@
     "construction_type": "Тухла",
     "construction_year": "2012",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -521,7 +521,7 @@
     "construction_type": "Тухла",
     "construction_year": "2016",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -711,7 +711,7 @@
     "construction_type": "Тухла",
     "construction_year": "2018",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -757,7 +757,7 @@
     "construction_type": "Тухла",
     "construction_year": "1933",
     "floor_number": "1",
-    "floor_position": "първи етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -801,7 +801,7 @@
     "construction_type": "Тухла",
     "construction_year": "2013",
     "floor_number": "5",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -965,7 +965,7 @@
     "construction_type": "Тухла",
     "construction_year": "1980",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1009,7 +1009,7 @@
     "construction_type": "Тухла",
     "construction_year": "2015",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1052,7 +1052,7 @@
     "construction_type": "Тухла",
     "construction_year": "2013",
     "floor_number": "5",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1097,7 +1097,7 @@
     "construction_type": "Тухла",
     "construction_year": "2003",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1142,7 +1142,7 @@
     "construction_type": "Тухла",
     "construction_year": "2011",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1230,7 +1230,7 @@
     "construction_type": "Тухла",
     "construction_year": "2008",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1275,7 +1275,7 @@
     "construction_type": "Тухла",
     "construction_year": "2015",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1320,7 +1320,7 @@
     "construction_type": "Тухла",
     "construction_year": "2008",
     "floor_number": "4",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1366,7 +1366,7 @@
     "construction_type": "Тухла",
     "construction_year": "2000",
     "floor_number": "6",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1413,7 +1413,7 @@
     "construction_type": "Тухла",
     "construction_year": "2008",
     "floor_number": "4",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1458,7 +1458,7 @@
     "construction_type": "Тухла",
     "construction_year": "2026",
     "floor_number": "1",
-    "floor_position": "първи етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1503,7 +1503,7 @@
     "construction_type": "Тухла",
     "construction_year": "2017",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1546,7 +1546,7 @@
     "construction_type": "Тухла",
     "construction_year": "2012",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1591,7 +1591,7 @@
     "construction_type": "Тухла",
     "construction_year": "2010",
     "floor_number": "1",
-    "floor_position": "първи етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1636,7 +1636,7 @@
     "area": "34",
     "construction_type": "Тухла",
     "construction_year": "2008",
-    "floor_position": "първи етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1683,7 +1683,7 @@
     "construction_type": "Тухла",
     "construction_year": "2009",
     "floor_number": "5",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [],
     "contacts": {
@@ -1722,7 +1722,7 @@
     "construction_type": "Тухла",
     "construction_year": "2026",
     "floor_number": "7",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1807,7 +1807,7 @@
     "construction_type": "Тухла",
     "construction_year": "2014",
     "floor_number": "5",
-    "floor_position": "последен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1853,7 +1853,7 @@
     "construction_type": "Тухла",
     "construction_year": "2012",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -1976,7 +1976,7 @@
     "construction_type": "Панел",
     "construction_year": "1991",
     "floor_number": "2",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -2138,7 +2138,7 @@
     "construction_type": "Тухла",
     "construction_year": "2009",
     "floor_number": "3",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
@@ -2182,7 +2182,7 @@
     "construction_type": "Панел",
     "construction_year": "1992",
     "floor_number": "15",
-    "floor_position": "непоследен етаж",
+    "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
       "Обзаведен"
