@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-18 10:23:00</updated>
+    <updated>2026-09-18 10:29:12</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -1607,6 +1607,52 @@
             <ImageChanged>1</ImageChanged>
         </Item>
         <Item>
+            <UniqueEstateID>109112</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>2</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>95000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>75</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>779</EstateSubRegion>
+            <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
+            <WorldArea>779</WorldArea>
+            <WorldAreaName>гр.Поморие</WorldAreaName>
+            <Latitude>42.563711</Latitude>
+            <Longtitude>27.600802</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Поморие!
+
+МЕСТОПОЛОЖЕНИЕ: Поморие е един от най-очарователните, древни и предпочитани морски градове по българското Черноморие, разположен на живописен тесен полуостров, вдаден в морето. Градът очарова със своята романтична атмосфера, кристално чист въздух, известните си лечебни кални бани и поддържани крайбрежни алеи за разходка. Локацията предлага перфектно развита градска инфраструктура – разнообразие от заведения, магазини, лечебни центрове, училища и удобни транспортни връзки до Бургас и международното летище. Районът осигурява идеален баланс между спокойствие, пълноценен летен отдих и отлични условия за целогодишно живеене или отдаване под наем.
+
+РАЗПРЕДЕЛЕНИЕ: Жилището разкрива светъл, хармоничен и изключително функционално организиран мащаб, проектиран с мисъл за домашен уют и ежедневна практичност. Интериорният план включва уютен хол с обособена кухненска част – пространствен център за релакс и споделени вечери, самостоятелна и тиха спалня, предразполагаща към пълноценен отдих, напълно оборудвано санитарно помещение (баня с тоалетна) и прекрасна тераса, предлагаща приятен външен кът за посрещане на утрините с чаша ароматно кафе под морския бриз. За пълния комфорт на новите собственици, към имота има и прилежащо паркомясто, включено в цената.
+
+СЪСТОЯНИЕ: Апартаментът посреща новите си собственици в пълна готовност за моментално нанасяне – предлага се напълно обзаведен и поддържан с много грижа, снабден с всички необходими мебели и битова техника за едно съвременно домакинство. Включеното паркомясто осигурява целогодишно спокойствие и сигурно място за Вашия автомобил, спестявайки каквото и да било търсене в натоварените месеци. Интериорът излъчва топлина, свежест и уют, спестявайки допълнителни ремонти, организационни грижи или последващи финансови вложения.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109112]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109112/_file6a76f4cf709e5-1b178567384863301_NS-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109112/_file6a76f4cf774ba-1b178567384863301_ws-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109112/_file6a76f4cf74ed3-1b178567384863301_wC-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109112/_file6a76f4cf6d2ea-1b178567384863301_4A-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
             <UniqueEstateID>109107</UniqueEstateID>
             <OfferType>2</OfferType>
             <OfferTypeName>продава</OfferTypeName>
@@ -2711,6 +2757,53 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107763/_file6aa81e3100d3f-009.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107763/_file6aa81e30f256f-008.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107763/_file6aa81e30ef0e9-007.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>107761</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>3</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>194000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>98</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>779</EstateSubRegion>
+            <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
+            <WorldArea>779</WorldArea>
+            <WorldAreaName>гр.Поморие</WorldAreaName>
+            <Latitude>42.561589</Latitude>
+            <Longtitude>27.602255</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Поморие!
+
+МЕСТОПОЛОЖЕНИЕ: Поморие е един от най-очарователните, древни и предпочитани морски градове по българското Черноморие, разположен на живописен тесен полуостров, врязан в морската шир. Градът пленява със своята романтична атмосфера, кристално чист въздух, световноизвестни лечебни кални бани и красиво поддържани крайбрежни алеи. Локацията предлага перфектно развита инфраструктура – богат избор от заведения, кафенета, магазини, балнеологични центрове, училища и бърз транспортен достъп до Бургас и международното летище. Районът осигурява идеален баланс между тишина, пълноценен ваканционен отдих и превъзходни условия за целогодишно живеене или отдаване под наем.
+
+РАЗПРЕДЕЛЕНИЕ: Жилището разкрива впечатляващ, изключително просторен и слънчев мащаб от 98 кв.м – редкo срещана широта за двустаен имот, която осигурява максимален комфорт, светлина и въздух. Интериорният план се разгръща с обширен хол с обособена кухненска част – светъл и елегантен събирателен център за релакс и гостоприемство, голяма самостоятелна и тиха спалня, предразполагаща към пълноценен отдих, напълно оборудвано санитарно помещение (баня с тоалетна) и прекрасна тераса – приятен външен кът за посрещане на утрините под морския бриз с чаша ароматно кафе.
+
+СЪСТОЯНИЕ: Апартаментът посреща новите си собственици в пълна готовност за моментално нанасяне – предлага се напълно обзаведен и поддържан с изключителна грижа, снабден с всички необходими мебели и битова техника за едно съвременно домакинство. Интериорът излъчва домашна топлина, свежест и непреходен крайбрежен уют, спестявайки каквито и да било допълнителни ремонти, организационни грижи или последващи финансови вложения. Жилището е подготвено веднага да се превърне във Вашия нов морски дом за почивка или в отлично функциониращ и печеливш актив.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 107761]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties107761/_file6aa81aed4f519-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107761/_file6aa81aed51f2e-009.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107761/_file6aa81aed54403-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107761/_file6aa81aed496b3-006.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties107761/_file6aa81aed4c13d-007.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
