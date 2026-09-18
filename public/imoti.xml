@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-18 10:29:12</updated>
+    <updated>2026-09-18 10:39:29</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -3136,7 +3136,7 @@
             <Price>115000</Price>
             <CurrencyID>4</CurrencyID>
             <CurrencyName>EUR</CurrencyName>
-            <SurfaceAll>6618</SurfaceAll>
+            <SurfaceAll>66</SurfaceAll>
             <EstateRegion>11</EstateRegion>
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
@@ -3253,20 +3253,11 @@
 
 Заповядайте да Ви го покажем. Използвайки нашите услуги, Вие ще превърнете закупуването на новия си дом в едно приятно изживяване. Ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за необходимите документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя, от 09:00 до 20:00 ч. Възползвайте се от безплатна консултация в нашия офис, където ще Ви спестим време и ще Ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или 0882009283 и цитирайте кода към имота: 102151]]></Description>
             <Images>
-                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac78e74-_file6a4cf992e7a1d-_file69c0de7476f7e-image--5--stamped.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac7d7a4-_file6a4cf992e5066-_file69c0de7476c59-image--6--stamped.png</Image>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac866a9-_file6a4cf992efe92-_file69c0de7476098-image--7--stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac80767-_file6a4cf992ea474-_file69c0de7477acd-image--1--stamped.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac83a42-_file6a4cf992ed0c8-_file69c0de7477d77-image-stamped.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac866a9-_file6a4cf992efe92-_file69c0de7476098-image--7--stamped.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac894cd-_file6a4cf99303e63-_file69c0de7477815-image--2--stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac78e74-_file6a4cf992e7a1d-_file69c0de7476f7e-image--5--stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac8bff8-_file6a4cf993012ce-_file69c0de7477519-image--3--stamped.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c654d61-_file6a4cf992e7a1d-_file69c0de7476f7e-image--5-.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c658e03-_file6a4cf992e5066-_file69c0de7476c59-image--6-.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c65bf31-_file6a4cf992ea474-_file69c0de7477acd-image--1-.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c65f3f9-_file6a4cf992ed0c8-_file69c0de7477d77-image.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c662b7c-_file6a4cf992efe92-_file69c0de7476098-image--7-.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c665fb8-_file6a4cf99303e63-_file69c0de7477815-image--2-.png</Image>
-                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413c669073-_file6a4cf993012ce-_file69c0de7477519-image--3-.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties102151/_file6aa413ac894cd-_file6a4cf99303e63-_file69c0de7477815-image--2--stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
