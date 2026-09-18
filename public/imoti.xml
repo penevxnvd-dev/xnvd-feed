@@ -1,9 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-18 10:06:25</updated>
+    <updated>2026-09-18 10:23:00</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
+        <Item>
+            <UniqueEstateID>110784</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>2</Floor>
+            <FloorAll>2</FloorAll>
+            <Price>190000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>120</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>765</EstateSubRegion>
+            <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
+            <WorldArea>765</WorldArea>
+            <WorldAreaName>гр.Созопол</WorldAreaName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание обзаведен тристаен апартамент с гледка към морето в Созопол!
+
+МЕСТОПОЛОЖЕНИЕ: Созопол е един от най-емблематичните, предпочитани и бързо развиващи се морски градове по Южното Черноморие, известен с богатата си история, романтичната си атмосфера и прекрасните си златисти плажове. Градът съчетава неповторимия си традиционен чар с модерна инфраструктура, богата гама от заведения, търговски обекти и ежедневни удобства. Локацията предлага отлични условия за незабравим ваканционен отдих или целогодишно обитаване, като същевременно гарантира висока инвестиционна стойност на имота.
+
+РАЗПРЕДЕЛЕНИЕ: Жилището се разпростира върху изключително щедра и функционална площ от 120 кв.м. Просторното разпределение включва светъл хол с обособен кухненски бокс и трапезарна част, две самостоятелни и комфортни спални, баня с тоалетна, коридор и прекрасна тераса, разкриваща панорамна гледка към синия морски хоризонт. Всички помещения са проектирани с мисъл за максимален комфорт, правилни форми и изобилие от естествена светлина.
+
+СЪСТОЯНИЕ: Имотът се предлага напълно обзаведен и оборудван, готов за незабавно нанасяне или отдаване под наем. Внушителната площ, практичното разпределение, панорамната морска гледка и популярността на Созопол го превръщат в безупречен актив – идеален както за лично лятно убежище, така и за инвестиция с висока доходност през туристическия сезон.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110784]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abdc80a-014.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abd279d-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abd7a2b-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abcd1d7-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abd9ee2-013.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abcfa5f-009.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
         <Item>
             <UniqueEstateID>110722</UniqueEstateID>
             <OfferType>2</OfferType>
