@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-18 19:19:34</updated>
+    <updated>2026-09-19 10:46:27</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4034,6 +4034,47 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abcd1d7-008.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abd9ee2-013.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110784/_file6aace4abcfa5f-009.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110859</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>16</EstateType>
+            <EstateTypeName>Парцел</EstateTypeName>
+            <BuildType></BuildType>
+            <BuildTypeName></BuildTypeName>
+            <Price>35000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>350</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>776</EstateSubRegion>
+            <EstateSubRegionName>с.Росен</EstateSubRegionName>
+            <WorldArea>776</WorldArea>
+            <WorldAreaName>с.Росен</WorldAreaName>
+            <Latitude>42.386095</Latitude>
+            <Longtitude>27.570797</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание парцел в с. Росен!
+
+МЕСТОПОЛОЖЕНИЕ: с. Росен е едно от онези тихи и живописни кътчета в Бургаска област, сгушено в полите на Странджа планина и съвсем близо до южното черноморско крайбрежие, където чистият въздух, зеленината и спокойствието създават неповторима атмосфера за отдих и целогодишно живеене. Селото съчетава неподправения селски уют с бърз и удобен достъп до морския бряг и градските удобства, разкривайки съвършена среда за бягане от динамиката на ежедневието.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с уют и функционалност върху площ от 350 кв.м. Това е същинско живописно платно под открито небе, чиито ясни граници и отлични характеристики чертаят вдъхновяващо поле за изява, готово да посрещне Вашите лични архитектурни мечти за изграждане на дом или уютна вила сред природата.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си сигурността и готовността на урбанизиран терен в регулация с начин на трайно ползване за ниско застрояване (до 10 м). Наличието на ток, вода и разположението на асфалтов път очертават светли и безпроблемни хоризонти за незабавно стартиране на Вашите строителни и инвестиционни планове.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110859]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110859/_file6aae3b72d2b76-002.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
