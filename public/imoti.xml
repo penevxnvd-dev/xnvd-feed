@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-19 10:46:27</updated>
+    <updated>2026-09-19 13:37:02</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -3092,6 +3092,62 @@
             <ImageChanged>1</ImageChanged>
         </Item>
         <Item>
+            <UniqueEstateID>109517</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>1</Floor>
+            <FloorAll>3</FloorAll>
+            <Price>169000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>66</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>565</EstateSubRegion>
+            <EstateSubRegionName>Център</EstateSubRegionName>
+            <WorldArea>565</WorldArea>
+            <WorldAreaName>Център</WorldAreaName>
+            <Latitude>42.495446</Latitude>
+            <Longtitude>27.477526</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент с включен магазин на партера в идеалния център на гр. Бургас!
+
+МЕСТОПОЛОЖЕНИЕ: Идеалният център на град Бургас е най-престижната, динамична и предпочитана локация, осигуряваща всичко необходимо на пешеходно разстояние – административни институции, пешеходни зони, училища, заведения, спирки на градския транспорт и популярни търговски обекти. Имотът е ситуиран на изключително стратегическо място с пряко лице към градския пазар, което осигурява постоянен човекопоток, отлична видимост и възможност за развиване на успешен търговски бизнес. Комбинацията от централна градска среда, зелен вътрешен двор и незаменима комуникативност прави имота изключително ценен актив както за живеене, така и за висока инвестиционна възвращаемост.
+
+РАЗПРЕДЕЛЕНИЕ: Имотът разполага с обща площ от 66 кв.м с изключително практично и многофункционално разпределение:
+
+Жилищна част: Включва слънчев хол с обособена кухненска част, самостоятелна и тиха спалня, осигуряваща уют, както и напълно оборудвано санитарно помещение (баня с тоалетна).
+
+Търговска част (Бизнес): Търговски обект (магазин) със самостоятелен статут, разположен на партерния етаж с директно лице и достъп откъм пазара.
+
+Допълнителни площи: Отделно перално помещение в двора на имота с възможност за мултифункционално ползване, както и 1/6 идеални части от целия поземлен имот с право на ползване на вътрешен двор.
+
+СЪСТОЯНИЕ: Жилището се предлага в полуобзаведено състояние. Това осигурява отлична възможност за новите собственици да запазят наличните функционални елементи и същевременно да довършат, модернизират и адаптират интериора спрямо своя личен вкус, стил и специфични нужди.
+
+ОСОБЕНОСТИ: Рядък имот с огромен бизнес потенциал! Офертата включва самостоятелен магазин със статут на партер с лице към пазара, допълнително перално помещение в двора и 1/6 идеални части от парцела с право на общо ползване на вътрешния двор – чудесен зелен оазис за отдих в градска среда. Перфектна комбинация от дом и бизнес на една от най-интензивните търговски локации в Бургас.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109517]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e8583849-11358852_145768911_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e857fe31-11358852_145768894_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e858f5c9-processed-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e85862d7-11358852_145768912_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e8588ab4-11358852_145768924_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109517/_file6a830e858bd4b-11358852_145768926_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
             <UniqueEstateID>109667</UniqueEstateID>
             <OfferType>2</OfferType>
             <OfferTypeName>продава</OfferTypeName>
@@ -4075,6 +4131,100 @@
 Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110859]]></Description>
             <Images>
                 <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110859/_file6aae3b72d2b76-002.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110861</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>5</EstateType>
+            <EstateTypeName>Едностаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>3</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>67000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>30</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <WorldArea>5933</WorldArea>
+            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
+            <Latitude>42.674198</Latitude>
+            <Longtitude>27.707865</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едностаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните и живописни кътчета по българското Черноморие, където златистите пясъци и безкрайният морски хоризонт се сливат под лъчите на южното слънце. Имотът е изкусно ситуиран в динамичната и вълнуваща атмосфера на курорта, предлагайки перфектна близост до широкия плаж и цялата богата инфраструктура от уютни заведения, магазини и удобни връзки. Това съвършено кътче разкрива неповторима възможност за създаване на прекрасно лично ваканционно убежище, където морският блясък и уютът вървят ръка за ръка.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с уют и изящество върху площ от 30 кв.м., оформяйки изключително интелигентен, светъл и хармоничен дом. Жилището посреща с функционален хол с кухненски бокс, съчетаващ топлината на споделените мигове, както и уютна спална зона, осигуряваща нужното уединение за пълноценен отдих. Комфортът се допълва от елегантна баня с тоалетна, както и от очарователна тераса, която кани морския бриз и слънчевите лъчи да станат част от ежедневието Ви.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо, отворил врати за незабавно нанасяне и създаване на скъпи спомени в съвършен синхрон с морската природа и прекрасната атмосфера наоколо.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110861]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed1612-005.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed65b7-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed8d82-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed3ffc-006.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110862</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>4</FloorAll>
+            <Price>83000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>120</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>802</EstateSubRegion>
+            <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
+            <WorldArea>802</WorldArea>
+            <WorldAreaName>с.Кошарица</WorldAreaName>
+            <Latitude>42.750018</Latitude>
+            <Longtitude>27.693807</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в с. Кошарица!
+
+МЕСТОПОЛОЖЕНИЕ: с. Кошарица е едно от онези живописни и вълшебни кътчета, сгушено в живописните поли на Стара планина, където прохладният планинарски въздух и тишината срещат блясъка на недалечния морски бряг и Слънчев бряг. Районът съчетава в себе си неповторимо спокойствие, зелени хълмове и панорамни гледки, разкривайки съвършена среда за целогодишно живеене, отдих и бягане от забързаното ежедневие в лоното на природата.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб и щедрост върху площ от 120 кв.м., оформяйки изключително просторен, светъл и хармоничен дом. Жилището посреща с великолепен хол с кухненски бокс, създаден за топли и споделени семейни мигове, две уютни и спокойни спални за пълноценен отдих, стилна баня с тоалетна, както и очарователна тераса, която кани меката слънчева светлина и прохладния бриз да станат част от ежедневието Ви.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо, отворил врати за незабавно нанасяне и създаване на скъпи спомени в съвършен синхрон с природата и прекрасната атмосфера наоколо.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110862]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae50004f5a9-011.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae5000472d2-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae500051eb5-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae50004cb38-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae500044c46-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110862/_file6aae500049a0a-009.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
