@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-19 14:19:34</updated>
+    <updated>2026-09-22 17:14:53</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -22,8 +22,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -67,8 +65,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <WorldArea>808</WorldArea>
-            <WorldAreaName>гр.Свети Влас</WorldAreaName>
             <Latitude>42.709625</Latitude>
             <Longtitude>27.743706</Longtitude>
             <Zoom>17</Zoom>
@@ -113,8 +109,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <WorldArea>751</WorldArea>
-            <WorldAreaName>гр.Царево</WorldAreaName>
             <Latitude>42.159225</Latitude>
             <Longtitude>27.847510</Longtitude>
             <Zoom>17</Zoom>
@@ -152,8 +146,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <WorldArea>751</WorldArea>
-            <WorldAreaName>гр.Царево</WorldAreaName>
             <Latitude>42.161105</Latitude>
             <Longtitude>27.838408</Longtitude>
             <Zoom>17</Zoom>
@@ -191,8 +183,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <WorldArea>751</WorldArea>
-            <WorldAreaName>гр.Царево</WorldAreaName>
             <Latitude>42.168938</Latitude>
             <Longtitude>27.834300</Longtitude>
             <Zoom>17</Zoom>
@@ -232,8 +222,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.270218</Latitude>
             <Longtitude>27.743826</Longtitude>
             <Zoom>17</Zoom>
@@ -276,8 +264,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.267831</Latitude>
             <Longtitude>27.746152</Longtitude>
             <Zoom>17</Zoom>
@@ -319,8 +305,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.265296</Latitude>
             <Longtitude>27.745678</Longtitude>
             <Zoom>17</Zoom>
@@ -367,8 +351,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <WorldArea>554</WorldArea>
-            <WorldAreaName>Зорница</WorldAreaName>
             <Latitude>42.517954</Latitude>
             <Longtitude>27.467256</Longtitude>
             <Zoom>17</Zoom>
@@ -413,8 +395,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>587</EstateSubRegion>
             <EstateSubRegionName>с.Подвис</EstateSubRegionName>
-            <WorldArea>587</WorldArea>
-            <WorldAreaName>с.Подвис</WorldAreaName>
             <Latitude>42.838947</Latitude>
             <Longtitude>26.847354</Longtitude>
             <Zoom>17</Zoom>
@@ -465,8 +445,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>797</EstateSubRegion>
             <EstateSubRegionName>к.к.Елените</EstateSubRegionName>
-            <WorldArea>797</WorldArea>
-            <WorldAreaName>к.к.Елените</WorldAreaName>
             <Latitude>42.701949</Latitude>
             <Longtitude>27.809888</Longtitude>
             <Zoom>17</Zoom>
@@ -510,8 +488,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>609</EstateSubRegion>
             <EstateSubRegionName>с.Житосвят</EstateSubRegionName>
-            <WorldArea>609</WorldArea>
-            <WorldAreaName>с.Житосвят</WorldAreaName>
             <Latitude>42.461530</Latitude>
             <Longtitude>26.971780</Longtitude>
             <Zoom>17</Zoom>
@@ -557,8 +533,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>556</EstateSubRegion>
             <EstateSubRegionName>Индустриална Зона</EstateSubRegionName>
-            <WorldArea>556</WorldArea>
-            <WorldAreaName>Индустриална Зона</WorldAreaName>
             <Latitude>42.595966</Latitude>
             <Longtitude>27.389857</Longtitude>
             <Zoom>17</Zoom>
@@ -600,8 +574,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <WorldArea>554</WorldArea>
-            <WorldAreaName>Зорница</WorldAreaName>
             <Latitude>42.512975</Latitude>
             <Longtitude>27.468147</Longtitude>
             <Zoom>17</Zoom>
@@ -647,8 +619,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>702</EstateSubRegion>
             <EstateSubRegionName>гр.Айтос</EstateSubRegionName>
-            <WorldArea>702</WorldArea>
-            <WorldAreaName>гр.Айтос</WorldAreaName>
             <Latitude>42.698098</Latitude>
             <Longtitude>27.260774</Longtitude>
             <Zoom>17</Zoom>
@@ -693,8 +663,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>638</EstateSubRegion>
             <EstateSubRegionName>с.Дебелт</EstateSubRegionName>
-            <WorldArea>638</WorldArea>
-            <WorldAreaName>с.Дебелт</WorldAreaName>
             <Latitude>42.392906</Latitude>
             <Longtitude>27.262869</Longtitude>
             <Zoom>17</Zoom>
@@ -742,8 +710,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.674758</Latitude>
             <Longtitude>27.702954</Longtitude>
             <Zoom>17</Zoom>
@@ -789,8 +755,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <WorldArea>562</WorldArea>
-            <WorldAreaName>Сарафово</WorldAreaName>
             <Latitude>42.560573</Latitude>
             <Longtitude>27.526450</Longtitude>
             <Zoom>17</Zoom>
@@ -845,8 +809,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <WorldArea>802</WorldArea>
-            <WorldAreaName>с.Кошарица</WorldAreaName>
             <Latitude>42.751511</Latitude>
             <Longtitude>27.693537</Longtitude>
             <Zoom>17</Zoom>
@@ -890,8 +852,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <WorldArea>560</WorldArea>
-            <WorldAreaName>Меден Рудник</WorldAreaName>
             <Latitude>42.464054</Latitude>
             <Longtitude>27.403305</Longtitude>
             <Zoom>17</Zoom>
@@ -934,8 +894,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>726</EstateSubRegion>
             <EstateSubRegionName>с.Полски Извор</EstateSubRegionName>
-            <WorldArea>726</WorldArea>
-            <WorldAreaName>с.Полски Извор</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -973,8 +931,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.398480</Latitude>
             <Longtitude>27.707691</Longtitude>
             <Zoom>17</Zoom>
@@ -1014,8 +970,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>550</EstateSubRegion>
             <EstateSubRegionName>Братя Миладинови</EstateSubRegionName>
-            <WorldArea>550</WorldArea>
-            <WorldAreaName>Братя Миладинови</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1055,8 +1009,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <WorldArea>761</WorldArea>
-            <WorldAreaName>с.Лозенец</WorldAreaName>
             <Latitude>42.193723</Latitude>
             <Longtitude>27.823244</Longtitude>
             <Zoom>17</Zoom>
@@ -1115,8 +1067,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>557</EstateSubRegion>
             <EstateSubRegionName>Крайморие</EstateSubRegionName>
-            <WorldArea>557</WorldArea>
-            <WorldAreaName>Крайморие</WorldAreaName>
             <Latitude>42.433559</Latitude>
             <Longtitude>27.495500</Longtitude>
             <Zoom>17</Zoom>
@@ -1158,8 +1108,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <WorldArea>554</WorldArea>
-            <WorldAreaName>Зорница</WorldAreaName>
             <Latitude>42.520251</Latitude>
             <Longtitude>27.466801</Longtitude>
             <Zoom>17</Zoom>
@@ -1204,8 +1152,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.408942</Latitude>
             <Longtitude>27.718563</Longtitude>
             <Zoom>17</Zoom>
@@ -1252,8 +1198,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>779</EstateSubRegion>
             <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
-            <WorldArea>779</WorldArea>
-            <WorldAreaName>гр.Поморие</WorldAreaName>
             <Latitude>42.561589</Latitude>
             <Longtitude>27.602255</Longtitude>
             <Zoom>17</Zoom>
@@ -1299,8 +1243,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <WorldArea>808</WorldArea>
-            <WorldAreaName>гр.Свети Влас</WorldAreaName>
             <Latitude>42.704073</Latitude>
             <Longtitude>27.793234</Longtitude>
             <Zoom>17</Zoom>
@@ -1346,8 +1288,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>795</EstateSubRegion>
             <EstateSubRegionName>гр.Несебър</EstateSubRegionName>
-            <WorldArea>795</WorldArea>
-            <WorldAreaName>гр.Несебър</WorldAreaName>
             <Latitude>42.652739</Latitude>
             <Longtitude>27.695941</Longtitude>
             <Zoom>17</Zoom>
@@ -1391,8 +1331,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.419881</Latitude>
             <Longtitude>27.644871</Longtitude>
             <Zoom>17</Zoom>
@@ -1438,8 +1376,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.694169</Latitude>
             <Longtitude>27.707093</Longtitude>
             <Zoom>17</Zoom>
@@ -1494,8 +1430,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <WorldArea>560</WorldArea>
-            <WorldAreaName>Меден Рудник</WorldAreaName>
             <Latitude>42.462314</Latitude>
             <Longtitude>27.411834</Longtitude>
             <Zoom>17</Zoom>
@@ -1537,8 +1471,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>781</EstateSubRegion>
             <EstateSubRegionName>гр.Ахелой</EstateSubRegionName>
-            <WorldArea>781</WorldArea>
-            <WorldAreaName>гр.Ахелой</WorldAreaName>
             <Latitude>42.646149</Latitude>
             <Longtitude>27.652119</Longtitude>
             <Zoom>17</Zoom>
@@ -1585,8 +1517,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <WorldArea>808</WorldArea>
-            <WorldAreaName>гр.Свети Влас</WorldAreaName>
             <Latitude>42.715266</Latitude>
             <Longtitude>27.745793</Longtitude>
             <Zoom>17</Zoom>
@@ -1633,8 +1563,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <WorldArea>562</WorldArea>
-            <WorldAreaName>Сарафово</WorldAreaName>
             <Latitude>42.563054</Latitude>
             <Longtitude>27.533970</Longtitude>
             <Zoom>17</Zoom>
@@ -1684,8 +1612,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.698747</Latitude>
             <Longtitude>27.710823</Longtitude>
             <Zoom>17</Zoom>
@@ -1733,8 +1659,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <WorldArea>562</WorldArea>
-            <WorldAreaName>Сарафово</WorldAreaName>
             <Latitude>42.560584</Latitude>
             <Longtitude>27.526442</Longtitude>
             <Zoom>17</Zoom>
@@ -1781,8 +1705,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.407371</Latitude>
             <Longtitude>27.703777</Longtitude>
             <Zoom>17</Zoom>
@@ -1828,8 +1750,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <WorldArea>761</WorldArea>
-            <WorldAreaName>с.Лозенец</WorldAreaName>
             <Latitude>42.213646</Latitude>
             <Longtitude>27.803399</Longtitude>
             <Zoom>17</Zoom>
@@ -1873,8 +1793,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.406904</Latitude>
             <Longtitude>27.678968</Longtitude>
             <Zoom>17</Zoom>
@@ -1920,8 +1838,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>555</EstateSubRegion>
             <EstateSubRegionName>Изгрев</EstateSubRegionName>
-            <WorldArea>555</WorldArea>
-            <WorldAreaName>Изгрев</WorldAreaName>
             <Latitude>42.524556</Latitude>
             <Longtitude>27.461490</Longtitude>
             <Zoom>17</Zoom>
@@ -1969,8 +1885,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <WorldArea>808</WorldArea>
-            <WorldAreaName>гр.Свети Влас</WorldAreaName>
             <Latitude>42.712047</Latitude>
             <Longtitude>27.760446</Longtitude>
             <Zoom>17</Zoom>
@@ -2015,8 +1929,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.668779</Latitude>
             <Longtitude>27.708646</Longtitude>
             <Zoom>17</Zoom>
@@ -2061,8 +1973,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.692922</Latitude>
             <Longtitude>27.709731</Longtitude>
             <Zoom>17</Zoom>
@@ -2115,8 +2025,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <WorldArea>560</WorldArea>
-            <WorldAreaName>Меден Рудник</WorldAreaName>
             <Latitude>42.451867</Latitude>
             <Longtitude>27.419865</Longtitude>
             <Zoom>17</Zoom>
@@ -2164,8 +2072,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.415085</Latitude>
             <Longtitude>27.699206</Longtitude>
             <Zoom>17</Zoom>
@@ -2214,8 +2120,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.691170</Latitude>
             <Longtitude>27.701945</Longtitude>
             <Zoom>17</Zoom>
@@ -2266,8 +2170,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.687459</Latitude>
             <Longtitude>27.701045</Longtitude>
             <Zoom>17</Zoom>
@@ -2312,8 +2214,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>550</EstateSubRegion>
             <EstateSubRegionName>Братя Миладинови</EstateSubRegionName>
-            <WorldArea>550</WorldArea>
-            <WorldAreaName>Братя Миладинови</WorldAreaName>
             <Latitude>42.506748</Latitude>
             <Longtitude>27.471046</Longtitude>
             <Zoom>17</Zoom>
@@ -2360,8 +2260,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>763</EstateSubRegion>
             <EstateSubRegionName>с.Синеморец</EstateSubRegionName>
-            <WorldArea>763</WorldArea>
-            <WorldAreaName>с.Синеморец</WorldAreaName>
             <Latitude>42.058871</Latitude>
             <Longtitude>27.984314</Longtitude>
             <Zoom>17</Zoom>
@@ -2407,8 +2305,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>779</EstateSubRegion>
             <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
-            <WorldArea>779</WorldArea>
-            <WorldAreaName>гр.Поморие</WorldAreaName>
             <Latitude>42.563711</Latitude>
             <Longtitude>27.600802</Longtitude>
             <Zoom>17</Zoom>
@@ -2453,8 +2349,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.415442</Latitude>
             <Longtitude>27.699115</Longtitude>
             <Zoom>17</Zoom>
@@ -2500,8 +2394,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.704296</Latitude>
             <Longtitude>27.710487</Longtitude>
             <Zoom>17</Zoom>
@@ -2547,8 +2439,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.406509</Latitude>
             <Longtitude>27.669747</Longtitude>
             <Zoom>17</Zoom>
@@ -2594,8 +2484,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.686632</Latitude>
             <Longtitude>27.702265</Longtitude>
             <Zoom>17</Zoom>
@@ -2648,8 +2536,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.267732</Latitude>
             <Longtitude>27.752921</Longtitude>
             <Zoom>17</Zoom>
@@ -2696,8 +2582,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.384455</Latitude>
             <Longtitude>27.709978</Longtitude>
             <Zoom>17</Zoom>
@@ -2743,8 +2627,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.398889</Latitude>
             <Longtitude>27.706056</Longtitude>
             <Zoom>17</Zoom>
@@ -2790,8 +2672,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.267612</Latitude>
             <Longtitude>27.755976</Longtitude>
             <Zoom>17</Zoom>
@@ -2835,8 +2715,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <WorldArea>562</WorldArea>
-            <WorldAreaName>Сарафово</WorldAreaName>
             <Latitude>42.559884</Latitude>
             <Longtitude>27.523032</Longtitude>
             <Zoom>17</Zoom>
@@ -2881,8 +2759,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>6130</EstateSubRegion>
             <EstateSubRegionName>с.Атия</EstateSubRegionName>
-            <WorldArea>6130</WorldArea>
-            <WorldAreaName>с.Атия</WorldAreaName>
             <Latitude>42.439154</Latitude>
             <Longtitude>27.581814</Longtitude>
             <Zoom>17</Zoom>
@@ -2928,8 +2804,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <WorldArea>560</WorldArea>
-            <WorldAreaName>Меден Рудник</WorldAreaName>
             <Latitude>42.455784</Latitude>
             <Longtitude>27.417242</Longtitude>
             <Zoom>17</Zoom>
@@ -2971,8 +2845,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <WorldArea>777</WorldArea>
-            <WorldAreaName>гр.Черноморец</WorldAreaName>
             <Latitude>42.417655</Latitude>
             <Longtitude>27.647306</Longtitude>
             <Zoom>17</Zoom>
@@ -3016,8 +2888,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <WorldArea>777</WorldArea>
-            <WorldAreaName>гр.Черноморец</WorldAreaName>
             <Latitude>42.417727</Latitude>
             <Longtitude>27.647253</Longtitude>
             <Zoom>17</Zoom>
@@ -3063,8 +2933,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.272986</Latitude>
             <Longtitude>27.751591</Longtitude>
             <Zoom>17</Zoom>
@@ -3109,8 +2977,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>565</EstateSubRegion>
             <EstateSubRegionName>Център</EstateSubRegionName>
-            <WorldArea>565</WorldArea>
-            <WorldAreaName>Център</WorldAreaName>
             <Latitude>42.495446</Latitude>
             <Longtitude>27.477526</Longtitude>
             <Zoom>17</Zoom>
@@ -3165,8 +3031,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <WorldArea>562</WorldArea>
-            <WorldAreaName>Сарафово</WorldAreaName>
             <Latitude>42.559851</Latitude>
             <Longtitude>27.522568</Longtitude>
             <Zoom>17</Zoom>
@@ -3210,8 +3074,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <WorldArea>745</WorldArea>
-            <WorldAreaName>гр.Приморско</WorldAreaName>
             <Latitude>42.294226</Latitude>
             <Longtitude>27.740520</Longtitude>
             <Zoom>17</Zoom>
@@ -3251,8 +3113,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <WorldArea>802</WorldArea>
-            <WorldAreaName>с.Кошарица</WorldAreaName>
             <Latitude>42.723962</Latitude>
             <Longtitude>27.688266</Longtitude>
             <Zoom>17</Zoom>
@@ -3292,8 +3152,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>719</EstateSubRegion>
             <EstateSubRegionName>гр.Камено</EstateSubRegionName>
-            <WorldArea>719</WorldArea>
-            <WorldAreaName>гр.Камено</WorldAreaName>
             <Latitude>42.582495</Latitude>
             <Longtitude>27.297854</Longtitude>
             <Zoom>17</Zoom>
@@ -3333,8 +3191,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>778</EstateSubRegion>
             <EstateSubRegionName>гр.Каблешково</EstateSubRegionName>
-            <WorldArea>778</WorldArea>
-            <WorldAreaName>гр.Каблешково</WorldAreaName>
             <Latitude>42.670275</Latitude>
             <Longtitude>27.549358</Longtitude>
             <Zoom>17</Zoom>
@@ -3377,8 +3233,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <WorldArea>777</WorldArea>
-            <WorldAreaName>гр.Черноморец</WorldAreaName>
             <Latitude>42.442710</Latitude>
             <Longtitude>27.635729</Longtitude>
             <Zoom>17</Zoom>
@@ -3419,8 +3273,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5961</EstateSubRegion>
             <EstateSubRegionName>с.Маринка</EstateSubRegionName>
-            <WorldArea>5961</WorldArea>
-            <WorldAreaName>с.Маринка</WorldAreaName>
             <Latitude>42.405926</Latitude>
             <Longtitude>27.486725</Longtitude>
             <Zoom>17</Zoom>
@@ -3462,8 +3314,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <WorldArea>761</WorldArea>
-            <WorldAreaName>с.Лозенец</WorldAreaName>
             <Latitude>42.218602</Latitude>
             <Longtitude>27.783791</Longtitude>
             <Zoom>17</Zoom>
@@ -3507,8 +3357,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>806</EstateSubRegion>
             <EstateSubRegionName>с.Равда</EstateSubRegionName>
-            <WorldArea>806</WorldArea>
-            <WorldAreaName>с.Равда</WorldAreaName>
             <Latitude>42.644664</Latitude>
             <Longtitude>27.680355</Longtitude>
             <Zoom>17</Zoom>
@@ -3554,8 +3402,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3598,8 +3444,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <WorldArea>777</WorldArea>
-            <WorldAreaName>гр.Черноморец</WorldAreaName>
             <Latitude>42.414971</Latitude>
             <Longtitude>27.649274</Longtitude>
             <Zoom>17</Zoom>
@@ -3644,8 +3488,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3688,8 +3530,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <WorldArea>751</WorldArea>
-            <WorldAreaName>гр.Царево</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3742,8 +3582,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.416140</Latitude>
             <Longtitude>27.692965</Longtitude>
             <Zoom>17</Zoom>
@@ -3789,8 +3627,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.683963</Latitude>
             <Longtitude>27.704262</Longtitude>
             <Zoom>17</Zoom>
@@ -3836,8 +3672,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.682097</Latitude>
             <Longtitude>27.701573</Longtitude>
             <Zoom>17</Zoom>
@@ -3882,8 +3716,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.708512</Latitude>
             <Longtitude>27.723113</Longtitude>
             <Zoom>17</Zoom>
@@ -3929,8 +3761,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <Latitude>42.407337</Latitude>
             <Longtitude>27.670882</Longtitude>
             <Zoom>17</Zoom>
@@ -3975,8 +3805,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>564</EstateSubRegion>
             <EstateSubRegionName>Славейков</EstateSubRegionName>
-            <WorldArea>564</WorldArea>
-            <WorldAreaName>Славейков</WorldAreaName>
             <Latitude>42.524875</Latitude>
             <Longtitude>27.445413</Longtitude>
             <Zoom>17</Zoom>
@@ -4019,8 +3847,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>557</EstateSubRegion>
             <EstateSubRegionName>Крайморие</EstateSubRegionName>
-            <WorldArea>557</WorldArea>
-            <WorldAreaName>Крайморие</WorldAreaName>
             <Latitude>42.444369</Latitude>
             <Longtitude>27.489595</Longtitude>
             <Zoom>17</Zoom>
@@ -4066,8 +3892,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <WorldArea>765</WorldArea>
-            <WorldAreaName>гр.Созопол</WorldAreaName>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4109,8 +3933,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>776</EstateSubRegion>
             <EstateSubRegionName>с.Росен</EstateSubRegionName>
-            <WorldArea>776</WorldArea>
-            <WorldAreaName>с.Росен</WorldAreaName>
             <Latitude>42.386095</Latitude>
             <Longtitude>27.570797</Longtitude>
             <Zoom>17</Zoom>
@@ -4152,8 +3974,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <WorldArea>5933</WorldArea>
-            <WorldAreaName>к.к.Слънчев Бряг</WorldAreaName>
             <Latitude>42.674198</Latitude>
             <Longtitude>27.707865</Longtitude>
             <Zoom>17</Zoom>
@@ -4198,8 +4018,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <WorldArea>802</WorldArea>
-            <WorldAreaName>с.Кошарица</WorldAreaName>
             <Latitude>42.750018</Latitude>
             <Longtitude>27.693807</Longtitude>
             <Zoom>17</Zoom>
