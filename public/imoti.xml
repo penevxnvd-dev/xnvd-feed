@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 19:41:17</updated>
+    <updated>2026-09-23 19:44:42</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4951,6 +4951,57 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties101567/_file69bac59abd5da-_file69b906aa4ad1c-image--10-.jpg</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties101567/_file69bac59abe09c-_file69b906aa4b046-image--9-.jpg</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties101567/_file69bac59abe608-_file69b906aa4cb95-image--5-.jpg</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>76511</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>129000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>86</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>551</EstateSubRegion>
+            <EstateSubRegionName>Възраждане</EstateSubRegionName>
+            <Latitude>42.493755</Latitude>
+            <Longtitude>27.462537</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент във Възраждане!
+
+МЕСТОПОЛОЖЕНИЕ: Възраждане е утвърден жилищен район на Бургас, който съчетава удобството на градската среда с възможността ежедневните маршрути да бъдат организирани лесно и практично. Районът предлага удобен достъп до централната част на града, магазини, училища, услуги и линии на градския транспорт. Развитата инфраструктура и близостта до различни удобства превръщат квартала в подходящ избор за хора, които ценят добре познатата градска среда и кратките разстояния между дома и всичко необходимо за ежедневието.
+
+РАЗПРЕДЕЛЕНИЕ: Апартаментът е с площ от 90 кв.м. и се намира на четвърти етаж в тухлена сграда. Жилището разполага с хол с кухня, две самостоятелни спални, две бани с тоалетни и две тераси. Дневната зона обединява пространството за почивка и кухнята, създавайки общо помещение за ежедневието и времето със семейството. Двете отделни спални осигуряват необходимото лично пространство, като всяка от тях може да бъде организирана според нуждите на домакинството. Двете бани с тоалетни са практично допълнение към жилището, а двете тераси предоставят допълнително пространство извън основната жилищна площ.
+
+СЪСТОЯНИЕ: Апартаментът се предлага необзаведен и се нуждае от леки козметични корекции. Това позволява бъдещите обитатели да определят цветовете, настилките и отделните интериорни детайли според собствените си предпочитания. Наличната площ и разпределението дават възможност помещенията да бъдат обзаведени и организирани индивидуално, без да се налага да се съобразявате с вече съществуващ интериор. Ключът за имота е при нас, което позволява огледите да бъдат организирани удобно.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще Ви спестим време и ще Ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 76511]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a705189329ef-1777107000590504-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051892ecee-1777107000205934-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a705189409b3-1777107003230636-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051893e667-1777107002948873-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051892b9a7-177710703446802-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518929229-1777107030751016-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051892489a-1777107010723587-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518935d73-1777107001338528-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518938138-1777107001789442-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518943743-1777107007331691-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051893c3aa-1777107002697685-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
