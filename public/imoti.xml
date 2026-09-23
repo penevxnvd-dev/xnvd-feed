@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 16:51:19</updated>
+    <updated>2026-09-23 16:56:52</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4379,6 +4379,49 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110071/_file6a918f150652a-08-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110071/_file6a918f150bd68-11-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110071/_file6a918f150ee09-12-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>108622</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>25</EstateType>
+            <EstateTypeName>Вила</EstateTypeName>
+            <BuildType>4</BuildType>
+            <BuildTypeName>Гредоред</BuildTypeName>
+            <FloorAll>1</FloorAll>
+            <Price>33000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>50</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>746</EstateSubRegion>
+            <EstateSubRegionName>гр.Китен</EstateSubRegionName>
+            <Latitude>42.229393</Latitude>
+            <Longtitude>27.775504</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едноетажна вила в  Китен!
+
+МЕСТОПОЛОЖЕНИЕ: Китен е едно от най-живописните, слънчени и магнетични кътчета по южното българско Черноморие, където тайнствените гори на Странджа планина се сливат с лазурните води и златистите пясъчни ивици на прочутите заливи. Място, което но̀си усещане за свобода, неподправена романтика и чист морски бриз, превръщайки се в истински оазис за бягане от забързаното ежедневие. Имотът е изкусно ситуиран в това вълшебно кътче, съчетаващо тишината и уединението на природата с динамичния ритъм на крайбрежния живот, разкриващо съвършена сцена за незабравими почивки и пълноценен отдих.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху застроена площ от 50 кв.м., оформяйки съвършен и уютен едноетажен дом, създаден с дълбока мисъл за максимален комфорт. Жилището посреща с просторен хол с трапезария, съчетаващ топлината на споделените семейни мигове и удобството на ежедневието. Двете самостоятелни спални осигуряват лично пространство и дълбок, възстановяващ релакс за всеки член на домакинството, докато елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно безгрижно прекарване, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, хармонията и красотата на Вашия нов собствен морски оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 108622]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a1497824cb-11316944_145462745_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a14977e81d-11316944_145462737_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a1497751c6-11316944_145462729_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a14976edaf-11316944_145462726_big-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
