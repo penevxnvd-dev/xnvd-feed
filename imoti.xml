@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 19:19:41</updated>
+    <updated>2026-09-23 19:31:47</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4863,6 +4863,50 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108782/_file6a707e23697b0-1b178478835140121_kK-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108782/_file6a707e2367070-1b178478835140121_JC-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108782/_file6a707e235c705-1b178478835140121_77-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>101388</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>5</EstateType>
+            <EstateTypeName>Едностаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>5</FloorAll>
+            <DateOfActuality>2007-01-01</DateOfActuality>
+            <Price>72000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>57</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <Latitude>42.671400</Latitude>
+            <Longtitude>27.701657</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание Едностаен апартамент в Слънчев Бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е изпълнен с енергия и възможности – място, където морето е винаги на една крачка, а животът никога не спира. Дългата пясъчна ивица и откритият хоризонт създават усещане за свобода и простор, което се усеща във всяка разходка край брега. Районът предлага отлична инфраструктура, разнообразие от заведения, магазини и развлечения, които правят ежедневието динамично и удобно. Близостта до Несебър добавя културен чар и история, а лесната връзка с Бургас осигурява бърз достъп до всичко необходимо. Слънчев бряг е място, където денят започва с морски изгрев и завършва с оживена атмосфера – съчетание от движение, удобство и морско вдъхновение, което го прави привлекателен както за почивка, така и за инвестиция.
+
+РАЗПРЕДЕЛЕНИЕ: Разполага с площ от 57кв.м., разгърната в следното функционално разпределение: еднопространствено помещение с кухненски бокс, баня и тоалетна, тераса.
+
+СЪСТОЯНИЕ: Жилището се предлага напълно обзаведено. Разполага с всичко необходимо за едно домакинство.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването  на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 101388]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties101388/_file6a71a50fa6787-_file69b423d69f42c-6-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties101388/_file6a71a50fa3d03-_file69b423d69f0c4-5-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties101388/_file6a71a50fa92a5-_file69b423d69f808-7-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
