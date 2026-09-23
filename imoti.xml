@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 16:46:33</updated>
+    <updated>2026-09-23 16:51:19</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4351,8 +4351,8 @@
             <SurfaceAll>94</SurfaceAll>
             <EstateRegion>12</EstateRegion>
             <EstateRegionName>Бургас област</EstateRegionName>
-            <EstateSubRegion>751</EstateSubRegion>
-            <EstateSubRegionName>гр.Царево</EstateSubRegionName>
+            <EstateSubRegion>765</EstateSubRegion>
+            <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
             <Latitude>42.408857</Latitude>
             <Longtitude>27.677571</Longtitude>
             <Zoom>17</Zoom>
