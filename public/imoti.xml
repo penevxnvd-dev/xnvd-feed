@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 19:44:42</updated>
+    <updated>2026-09-23 19:51:05</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -5002,6 +5002,51 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518938138-1777107001789442-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a70518943743-1777107007331691-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties76511/_file6a7051893c3aa-1777107002697685-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>79040</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>3</BuildType>
+            <BuildTypeName>Панел</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>4</FloorAll>
+            <Price>73000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>75</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>627</EstateSubRegion>
+            <EstateSubRegionName>гр.Средец</EstateSubRegionName>
+            <Latitude>42.338090</Latitude>
+            <Longtitude>27.190153</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в Средец!
+
+МЕСТОПОЛОЖЕНИЕ: Средец е едно от онези приятно спокойни, хармонични и уютни кътчета, които съчетават удобството на добре развитата градска среда с омиротворяващата близост до природата и чистия простор. Място, което но̀си усещане за по-умерен, балансиран ритъм на ежедневието, далеч от забързания шум, но без липсата на необходимите съвременни удобства. Имотът е изкусно ситуиран в тази тиха и гостоприемна среда, предлагаща съвършен баланс между спокойствието и удобния достъп до всичко необходимо за едно пълноценно и хармонично ежедневие.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху площ от 75 кв.м., оформяйки съвършен и просторен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с уютен хол и отделна кухня, създадени за топли и споделени мигове, две спокойни и светли спални за пълноценен релакс и уединение, както и практична баня с тоалетна. Специален акцент на имота е благоприятното източно изложение, което посреща първите лъчи на слънцето, както и очарователната тераса, канеща меката сутрешна светлина и свежия въздух да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, светлината и красотата на Вашия нов собствен дом.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 79040]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec534707de-_file67c95a00156d3-image--1--stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec5346daf8-_file67c95a0016a13-image-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec53465866-_file67c9c6167c763-IMG_0932--1--stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec5345e530-_file67c9c6167b412-IMG_0927-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec5346b0fb-_file67c9c61679387-IMG_0920-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
