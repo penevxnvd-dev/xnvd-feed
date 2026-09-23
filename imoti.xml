@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 17:13:21</updated>
+    <updated>2026-09-23 17:18:48</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4510,6 +4510,50 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110103/_file6a929422f12c7-09-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110103/_file6a92942306577-15-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110103/_file6a92942302c85-13-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109464</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>25</EstateType>
+            <EstateTypeName>Вила</EstateTypeName>
+            <BuildType>4</BuildType>
+            <BuildTypeName>Гредоред</BuildTypeName>
+            <FloorAll>1</FloorAll>
+            <Price>26000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>55</SurfaceAll>
+            <SurfaceParcel>100</SurfaceParcel>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>777</EstateSubRegion>
+            <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
+            <Latitude>42.439950</Latitude>
+            <Longtitude>27.646443</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едноетажна вила в Черноморец!
+
+МЕСТОПОЛОЖЕНИЕ: Черноморец е едно от онези вълшебни, слънчени и магнетични кътчета по южното Черноморие, където скалистите брегове се сливат с лазурните води, а уханието на море и смолисти борове изпълва въздуха с неповторима хармония. Място, което носи усещане за автентичен южен романс, спокойствие и бягство от забързания свят. Имотът е изкусно ситуиран в това живописно кътче, съчетаващо тишината на уютната среда с близостта до златистите плажове, разкриващо съвършена сцена за незабравими почивки и пълноценен живот сред природата.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху застроена площ от 55 кв.м., хармонично разположена в уютен и добре поддържан двор от 100 кв.м., който дарува усещане за личен зелен оазис. Вилата посреща с великолепна, светла всекидневна с кухненска част, съчетаваща топлината на споделените мигове и практичността на ежедневието. Двете уютни и спокойни спални осигуряват лично пространство и дълбок, възстановяващ релакс, докато очарователната веранда изнася дома директно към зелената прегръдка на двора, канейки меката слънчева светлина и морския бриз да станат естествена част от Вашето ежедневие.
+
+СЪСТОЯНИЕ: Имотът носи в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно безгрижно прекарване, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, морската хармония и красотата на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109464]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109464/_file6a7ed507a36e8-image1-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109464/_file6a7ed507a6ee7-image2-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109464/_file6a7ed507b2db3-image-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109464/_file6a7ed507ac1f3-image4-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
