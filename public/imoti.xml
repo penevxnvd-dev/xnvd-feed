@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 16:56:52</updated>
+    <updated>2026-09-23 17:06:58</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4422,6 +4422,49 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a14977e81d-11316944_145462737_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a1497751c6-11316944_145462729_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108622/_file6a6a14976edaf-11316944_145462726_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>105432</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>14</EstateType>
+            <EstateTypeName>Къща</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Price>295000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>208</SurfaceAll>
+            <SurfaceParcel>390</SurfaceParcel>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>779</EstateSubRegion>
+            <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
+            <Latitude>42.560337</Latitude>
+            <Longtitude>27.546525</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двуетажна къща в Поморие!
+
+МЕСТОПОЛОЖЕНИЕ: Поморие е едно от най-магичните, исторически наситени и живописни кътчета по българското Черноморие, разположено върху живописен скалист полуостров, който смело се вдава в лазурните води на морето. Място, прочуто със своите целебни кални бани, солени езера, древна история и неповторим романтичен дух, където морският бриз но̀си ухание на свобода, здраве и вечност. Имотът е изкусно ситуиран само на вдъхновяващите 300 метра от морския бряг, съчетаващ съвършеното спокойствие на уредената среда с близостта до вълните, разкриващ перфектна сцена за луксозен целогодишен живот или незабравими морски почивки.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурно изобилие и изключителна щедрост върху застроена площ от 208 кв.м., хармонично разположена в прекрасен, просторен двор от 390 кв.м., който дарува усещане за личен зелен оазис под открито небе. Тази изящна двуетажна къща посреща на първия си етаж с елегантно антре, водещо към великолепен, светъл хол с кухня и трапезария, създаден за споделени семейни мигове, като към него се прибавят практично мокро помещение, склад, удобен гараж, вътрешно стълбище и очарователна веранда, която изнася дома към двора. Вторият етаж разкрива три спокойни и светли спални за пълноценен релакс, две елегантни бани с тоалетни, луксозен дрешник и тераси, от които се разкрива прекрасна отворена гледка.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на чисто новото начало, творческата свобода и неповторимия шанс да творите без ограничения. Предлага се в степен на завършеност „на шпакловка и замазка“, което Ви дава пълната власт и вдъхновение сами да изградите интериорния свят на мечтите си, избирайки цветове, материали и стил, които най-точно отразяват Вашата същност и представа за съвършен лукс край морето.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 105432]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties105432/_file6ab3dc4ca5569-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties105432/_file6ab3dc4ca9489-014.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties105432/_file6ab3dc4cab4ec-015.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties105432/_file6ab3dc4ca75ad-013.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
