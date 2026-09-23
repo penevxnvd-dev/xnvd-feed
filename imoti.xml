@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 19:51:05</updated>
+    <updated>2026-09-23 19:59:12</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -5047,6 +5047,54 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec53465866-_file67c9c6167c763-IMG_0932--1--stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec5345e530-_file67c9c6167b412-IMG_0927-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79040/_file6a9ec5346b0fb-_file67c9c61679387-IMG_0920-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>79532</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>25</EstateType>
+            <EstateTypeName>Вила</EstateTypeName>
+            <BuildType>3</BuildType>
+            <BuildTypeName>Панел</BuildTypeName>
+            <Price>180000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>100</SurfaceAll>
+            <SurfaceParcel>50</SurfaceParcel>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>761</EstateSubRegion>
+            <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
+            <Latitude>42.222803</Latitude>
+            <Longtitude>27.782215</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания ’Х’ представя на Вашето внимание едноетажна вила в Лозенец!
+
+МЕСТОПОЛОЖЕНИЕ: Лозенец има особен начин да съчетава лекотата на морския сезон с характера на малко крайбрежно селище. Денят тук преминава между плажа, тихите улици, добрата храна и близостта на Странджа, която придава на района зелена и естествена дълбочина.
+Мястото е предпочитано заради своята непринудена атмосфера, красивите заливи и усещането, че всичко важно е близо, без животът да губи спокойния си ход. Лозенец предлага среда, в която вилата не е просто имот за почивка, а част от по-свободен начин на живот.
+
+
+РАЗПРЕДЕЛЕНИЕ: Сто квадратни метра са организирани така, че общите моменти и личното пространство да не си пречат. Холът с кухня оформя широка и естествена зона за хранене, разговори и почивка, а двете спални остават отделени като спокойни помещения за отдих.
+Двете бани осигуряват удобство за семейство и гости, без сутрешното ежедневие да се превръща в преговори на високо равнище. Верандата извежда дома навън и се свързва с двора от 50 кв.м, където могат да намерят място зеленина, маса за летни вечери или кът за почивка.
+
+СЪСТОЯНИЕ: Вилата е подготвена за живот още от първия ден. Обзавеждането придава завършеност на помещенията и следва спокойния характер на имота, без да натоварва пространството с излишна показност.
+Дневната зона е оформена за споделено време, спалните предлагат лично уединение, а верандата естествено продължава интериора към двора. Имотът се предлага обзаведен и готов да бъде използван за семейни почивки, по-дълги престои или постоянно обитаване край морето.
+
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 79532]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca9a385-79532-02-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca9c440-79532-03-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca93ff8-79532-04-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca97a3b-79532-01-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
