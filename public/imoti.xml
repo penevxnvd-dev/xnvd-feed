@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 18:44:37</updated>
+    <updated>2026-09-23 18:47:41</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -4729,6 +4729,50 @@
                 <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110244/_file6a9a8bf6508e9-06-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110244/_file6a9a8bf65618c-12-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110244/_file6a9a8bf65b2d4-14-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109119</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>5</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>240000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>185</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>751</EstateSubRegion>
+            <EstateSubRegionName>гр.Царево</EstateSubRegionName>
+            <Latitude>42.171356</Latitude>
+            <Longtitude>27.851007</Longtitude>
+            <Zoom>17</Zoom>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в Царево!
+
+МЕСТОПОЛОЖЕНИЕ: Царево е едно от най-живописните, слънчени и магнетични кътчета по южното българско Черноморие, където вековните гори на Странджа планина срещат дивите скалисти брегове и лазурните морски води, създаващи неповторима атмосфера на свобода и спокойствие. Градът но̀си усещане за автентичен южен чар, уют и бягство от забързания свят. Имотът е изкусно ситуиран в това вълшебно място, предлагащ перфектен баланс между динамиката на крайбрежния живот и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих или незабравими летни мигове.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху впечатляващата площ от 185 кв.м., оформяйки съвършен, светъл и просторен семеен дом. Жилището посреща с великолепен, светъл хол с кухненски бокс, създаден за топли и споделени мигове, две уютни и спокойни спални за пълноценен релакс и уединение, както и стилна баня с тоалетна. Безспорно допълнение към уюта е впечатляващата голяма тераса, която кани меката слънчева светлина, морския бриз и откритото пространство да станат неразделна част от Вашето ежедневие.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, морската хармония и красотата на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109119]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109119/_file6a770eb144f1f-1c178540484738771_Jw-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109119/_file6a770eb154ff5-1c178540484738771_X8-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109119/_file6a770eb1495fe-1c178540484738771_op-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109119/_file6a770eb14c861-1c178540484738771_pj-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
