@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-23 19:59:12</updated>
+    <updated>2026-09-24 11:22:53</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -5095,6 +5095,48 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca9c440-79532-03-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca93ff8-79532-04-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties79532/_file6a5e01ca97a3b-79532-01-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110946</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>3</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>110000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>55</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>808</EstateSubRegion>
+            <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Свети Влас!
+
+МЕСТОПОЛОЖЕНИЕ: Свети Влас е едно от най-живописните, елегантни и слънчени кътчета по българското Черноморие, където уникалният климатичен коктейл от морски бриз и чист планински въздух създава неповторима атмосфера на здраве, лукс и романтика. Разположен амфитеатрално в подножието на Стара планина с изглед към лазурния залив на морето, градът но̀си усещане за изтънчен стил, спокойствие и изключителен престиж. Имотът е изкусно ситуиран в това вълшебно място, предлагащ перфектен баланс между бързия достъп до бляскавото яхтено пристанище, плажовете и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих или незабравими летни мигове.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 55 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, морската хармония и красотата на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110946]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110946/_file6ab16086aa879-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110946/_file6ab16086afbd5-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110946/_file6ab16086b1ccd-013.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110946/_file6ab16086b6451-015.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110946/_file6ab16086b8494-016.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
