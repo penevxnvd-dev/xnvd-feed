@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-24 11:38:01</updated>
+    <updated>2026-09-24 13:23:57</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -65,9 +65,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <Latitude>42.709625</Latitude>
-            <Longtitude>27.743706</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -109,9 +106,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <Latitude>42.159225</Latitude>
-            <Longtitude>27.847510</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -146,9 +140,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <Latitude>42.161105</Latitude>
-            <Longtitude>27.838408</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -183,9 +174,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <Latitude>42.168938</Latitude>
-            <Longtitude>27.834300</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -222,9 +210,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.270218</Latitude>
-            <Longtitude>27.743826</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -264,9 +249,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.267831</Latitude>
-            <Longtitude>27.746152</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -305,9 +287,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.265296</Latitude>
-            <Longtitude>27.745678</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -351,9 +330,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <Latitude>42.517954</Latitude>
-            <Longtitude>27.467256</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -395,9 +371,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>587</EstateSubRegion>
             <EstateSubRegionName>с.Подвис</EstateSubRegionName>
-            <Latitude>42.838947</Latitude>
-            <Longtitude>26.847354</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -445,9 +418,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>797</EstateSubRegion>
             <EstateSubRegionName>к.к.Елените</EstateSubRegionName>
-            <Latitude>42.701949</Latitude>
-            <Longtitude>27.809888</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -488,9 +458,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>609</EstateSubRegion>
             <EstateSubRegionName>с.Житосвят</EstateSubRegionName>
-            <Latitude>42.461530</Latitude>
-            <Longtitude>26.971780</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -533,9 +500,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>556</EstateSubRegion>
             <EstateSubRegionName>Индустриална Зона</EstateSubRegionName>
-            <Latitude>42.595966</Latitude>
-            <Longtitude>27.389857</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -574,9 +538,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <Latitude>42.512975</Latitude>
-            <Longtitude>27.468147</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -619,9 +580,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>702</EstateSubRegion>
             <EstateSubRegionName>гр.Айтос</EstateSubRegionName>
-            <Latitude>42.698098</Latitude>
-            <Longtitude>27.260774</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -663,9 +621,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>638</EstateSubRegion>
             <EstateSubRegionName>с.Дебелт</EstateSubRegionName>
-            <Latitude>42.392906</Latitude>
-            <Longtitude>27.262869</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -710,9 +665,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.674758</Latitude>
-            <Longtitude>27.702954</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -755,9 +707,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <Latitude>42.560573</Latitude>
-            <Longtitude>27.526450</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -809,9 +758,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>627</EstateSubRegion>
             <EstateSubRegionName>гр.Средец</EstateSubRegionName>
-            <Latitude>42.347535</Latitude>
-            <Longtitude>27.181508</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -859,9 +805,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <Latitude>42.751511</Latitude>
-            <Longtitude>27.693537</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -902,9 +845,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <Latitude>42.464054</Latitude>
-            <Longtitude>27.403305</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -981,9 +921,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.398480</Latitude>
-            <Longtitude>27.707691</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1059,9 +996,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <Latitude>42.193723</Latitude>
-            <Longtitude>27.823244</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1117,9 +1051,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>557</EstateSubRegion>
             <EstateSubRegionName>Крайморие</EstateSubRegionName>
-            <Latitude>42.433559</Latitude>
-            <Longtitude>27.495500</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1158,9 +1089,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>554</EstateSubRegion>
             <EstateSubRegionName>Зорница</EstateSubRegionName>
-            <Latitude>42.520251</Latitude>
-            <Longtitude>27.466801</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1202,9 +1130,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.408942</Latitude>
-            <Longtitude>27.718563</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1248,9 +1173,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>779</EstateSubRegion>
             <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
-            <Latitude>42.561589</Latitude>
-            <Longtitude>27.602255</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1293,9 +1215,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <Latitude>42.704073</Latitude>
-            <Longtitude>27.793234</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1338,9 +1257,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>795</EstateSubRegion>
             <EstateSubRegionName>гр.Несебър</EstateSubRegionName>
-            <Latitude>42.652739</Latitude>
-            <Longtitude>27.695941</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1381,9 +1297,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.419881</Latitude>
-            <Longtitude>27.644871</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1426,9 +1339,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.694169</Latitude>
-            <Longtitude>27.707093</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1480,9 +1390,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <Latitude>42.462314</Latitude>
-            <Longtitude>27.411834</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1521,9 +1428,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>781</EstateSubRegion>
             <EstateSubRegionName>гр.Ахелой</EstateSubRegionName>
-            <Latitude>42.646149</Latitude>
-            <Longtitude>27.652119</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1567,9 +1471,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <Latitude>42.715266</Latitude>
-            <Longtitude>27.745793</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1613,9 +1514,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <Latitude>42.563054</Latitude>
-            <Longtitude>27.533970</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1662,9 +1560,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.698747</Latitude>
-            <Longtitude>27.710823</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1709,9 +1604,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <Latitude>42.560584</Latitude>
-            <Longtitude>27.526442</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1755,9 +1647,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.407371</Latitude>
-            <Longtitude>27.703777</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1800,9 +1689,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <Latitude>42.213646</Latitude>
-            <Longtitude>27.803399</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1843,9 +1729,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.406904</Latitude>
-            <Longtitude>27.678968</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1888,9 +1771,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>555</EstateSubRegion>
             <EstateSubRegionName>Изгрев</EstateSubRegionName>
-            <Latitude>42.524556</Latitude>
-            <Longtitude>27.461490</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -1978,9 +1858,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>808</EstateSubRegion>
             <EstateSubRegionName>гр.Свети Влас</EstateSubRegionName>
-            <Latitude>42.712047</Latitude>
-            <Longtitude>27.760446</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2022,9 +1899,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.668779</Latitude>
-            <Longtitude>27.708646</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2066,9 +1940,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.692922</Latitude>
-            <Longtitude>27.709731</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2118,9 +1989,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <Latitude>42.451867</Latitude>
-            <Longtitude>27.419865</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2165,9 +2033,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.415085</Latitude>
-            <Longtitude>27.699206</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2213,9 +2078,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.691170</Latitude>
-            <Longtitude>27.701945</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2263,9 +2125,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.687459</Latitude>
-            <Longtitude>27.701045</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2307,9 +2166,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>550</EstateSubRegion>
             <EstateSubRegionName>Братя Миладинови</EstateSubRegionName>
-            <Latitude>42.506748</Latitude>
-            <Longtitude>27.471046</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2353,9 +2209,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>763</EstateSubRegion>
             <EstateSubRegionName>с.Синеморец</EstateSubRegionName>
-            <Latitude>42.058871</Latitude>
-            <Longtitude>27.984314</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2398,9 +2251,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>779</EstateSubRegion>
             <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
-            <Latitude>42.563711</Latitude>
-            <Longtitude>27.600802</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2442,9 +2292,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.415442</Latitude>
-            <Longtitude>27.699115</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2487,9 +2334,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.704296</Latitude>
-            <Longtitude>27.710487</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2532,9 +2376,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.406509</Latitude>
-            <Longtitude>27.669747</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2577,9 +2418,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.686632</Latitude>
-            <Longtitude>27.702265</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2629,9 +2467,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.267732</Latitude>
-            <Longtitude>27.752921</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2675,9 +2510,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.384455</Latitude>
-            <Longtitude>27.709978</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2720,9 +2552,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.398889</Latitude>
-            <Longtitude>27.706056</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2765,9 +2594,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.267612</Latitude>
-            <Longtitude>27.755976</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2808,9 +2634,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <Latitude>42.559884</Latitude>
-            <Longtitude>27.523032</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2852,9 +2675,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>6130</EstateSubRegion>
             <EstateSubRegionName>с.Атия</EstateSubRegionName>
-            <Latitude>42.439154</Latitude>
-            <Longtitude>27.581814</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2897,9 +2717,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>560</EstateSubRegion>
             <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
-            <Latitude>42.455784</Latitude>
-            <Longtitude>27.417242</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2938,9 +2755,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.417655</Latitude>
-            <Longtitude>27.647306</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -2981,9 +2795,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.417727</Latitude>
-            <Longtitude>27.647253</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3026,9 +2837,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.272986</Latitude>
-            <Longtitude>27.751591</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3070,9 +2878,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>565</EstateSubRegion>
             <EstateSubRegionName>Център</EstateSubRegionName>
-            <Latitude>42.495446</Latitude>
-            <Longtitude>27.477526</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3124,9 +2929,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>562</EstateSubRegion>
             <EstateSubRegionName>Сарафово</EstateSubRegionName>
-            <Latitude>42.559851</Latitude>
-            <Longtitude>27.522568</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3167,9 +2969,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>745</EstateSubRegion>
             <EstateSubRegionName>гр.Приморско</EstateSubRegionName>
-            <Latitude>42.294226</Latitude>
-            <Longtitude>27.740520</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3206,9 +3005,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <Latitude>42.723962</Latitude>
-            <Longtitude>27.688266</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3245,9 +3041,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>719</EstateSubRegion>
             <EstateSubRegionName>гр.Камено</EstateSubRegionName>
-            <Latitude>42.582495</Latitude>
-            <Longtitude>27.297854</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3284,9 +3077,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>778</EstateSubRegion>
             <EstateSubRegionName>гр.Каблешково</EstateSubRegionName>
-            <Latitude>42.670275</Latitude>
-            <Longtitude>27.549358</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3326,9 +3116,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.442710</Latitude>
-            <Longtitude>27.635729</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3366,9 +3153,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5961</EstateSubRegion>
             <EstateSubRegionName>с.Маринка</EstateSubRegionName>
-            <Latitude>42.405926</Latitude>
-            <Longtitude>27.486725</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3407,9 +3191,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <Latitude>42.218602</Latitude>
-            <Longtitude>27.783791</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3450,9 +3231,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>806</EstateSubRegion>
             <EstateSubRegionName>с.Равда</EstateSubRegionName>
-            <Latitude>42.644664</Latitude>
-            <Longtitude>27.680355</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3537,9 +3315,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.414971</Latitude>
-            <Longtitude>27.649274</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3675,9 +3450,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.416140</Latitude>
-            <Longtitude>27.692965</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3720,9 +3492,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.683963</Latitude>
-            <Longtitude>27.704262</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3765,9 +3534,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.682097</Latitude>
-            <Longtitude>27.701573</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3809,9 +3575,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.708512</Latitude>
-            <Longtitude>27.723113</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3854,9 +3617,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.407337</Latitude>
-            <Longtitude>27.670882</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3898,9 +3658,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>564</EstateSubRegion>
             <EstateSubRegionName>Славейков</EstateSubRegionName>
-            <Latitude>42.524875</Latitude>
-            <Longtitude>27.445413</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -3940,9 +3697,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>557</EstateSubRegion>
             <EstateSubRegionName>Крайморие</EstateSubRegionName>
-            <Latitude>42.444369</Latitude>
-            <Longtitude>27.489595</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4026,9 +3780,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>776</EstateSubRegion>
             <EstateSubRegionName>с.Росен</EstateSubRegionName>
-            <Latitude>42.386095</Latitude>
-            <Longtitude>27.570797</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4067,9 +3818,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.674198</Latitude>
-            <Longtitude>27.707865</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4111,9 +3859,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>802</EstateSubRegion>
             <EstateSubRegionName>с.Кошарица</EstateSubRegionName>
-            <Latitude>42.750018</Latitude>
-            <Longtitude>27.693807</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4205,9 +3950,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>806</EstateSubRegion>
             <EstateSubRegionName>с.Равда</EstateSubRegionName>
-            <Latitude>42.640181</Latitude>
-            <Longtitude>27.679533</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4261,9 +4003,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>702</EstateSubRegion>
             <EstateSubRegionName>гр.Айтос</EstateSubRegionName>
-            <Latitude>42.699326</Latitude>
-            <Longtitude>27.256361</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4305,9 +4044,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>702</EstateSubRegion>
             <EstateSubRegionName>гр.Айтос</EstateSubRegionName>
-            <Latitude>42.699326</Latitude>
-            <Longtitude>27.256350</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4353,9 +4089,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.408857</Latitude>
-            <Longtitude>27.677571</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4399,9 +4132,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>746</EstateSubRegion>
             <EstateSubRegionName>гр.Китен</EstateSubRegionName>
-            <Latitude>42.229393</Latitude>
-            <Longtitude>27.775504</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4442,9 +4172,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>779</EstateSubRegion>
             <EstateSubRegionName>гр.Поморие</EstateSubRegionName>
-            <Latitude>42.560337</Latitude>
-            <Longtitude>27.546525</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4486,9 +4213,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.388197</Latitude>
-            <Longtitude>27.704503</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4531,9 +4255,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.439950</Latitude>
-            <Longtitude>27.646443</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4575,9 +4296,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.402671</Latitude>
-            <Longtitude>27.716189</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4619,9 +4337,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.420934</Latitude>
-            <Longtitude>27.644160</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4664,9 +4379,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.407780</Latitude>
-            <Longtitude>27.678354</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4707,9 +4419,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>765</EstateSubRegion>
             <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
-            <Latitude>42.395327</Latitude>
-            <Longtitude>27.705849</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4750,9 +4459,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>751</EstateSubRegion>
             <EstateSubRegionName>гр.Царево</EstateSubRegionName>
-            <Latitude>42.171356</Latitude>
-            <Longtitude>27.851007</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4794,9 +4500,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>777</EstateSubRegion>
             <EstateSubRegionName>гр.Черноморец</EstateSubRegionName>
-            <Latitude>42.414767</Latitude>
-            <Longtitude>27.652161</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4839,9 +4542,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.684122</Latitude>
-            <Longtitude>27.703779</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4884,9 +4584,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.671400</Latitude>
-            <Longtitude>27.701657</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4927,9 +4624,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.685328</Latitude>
-            <Longtitude>27.705404</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -4972,9 +4666,6 @@
             <EstateRegionName>Бургас</EstateRegionName>
             <EstateSubRegion>551</EstateSubRegion>
             <EstateSubRegionName>Възраждане</EstateSubRegionName>
-            <Latitude>42.493755</Latitude>
-            <Longtitude>27.462537</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -5023,9 +4714,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>627</EstateSubRegion>
             <EstateSubRegionName>гр.Средец</EstateSubRegionName>
-            <Latitude>42.338090</Latitude>
-            <Longtitude>27.190153</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -5067,9 +4755,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>761</EstateSubRegion>
             <EstateSubRegionName>с.Лозенец</EstateSubRegionName>
-            <Latitude>42.222803</Latitude>
-            <Longtitude>27.782215</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -5158,9 +4843,6 @@
             <EstateRegionName>Бургас област</EstateRegionName>
             <EstateSubRegion>5933</EstateSubRegion>
             <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
-            <Latitude>42.699748</Latitude>
-            <Longtitude>27.707949</Longtitude>
-            <Zoom>17</Zoom>
             <BrokerID>335987</BrokerID>
             <BrokerName>Клиентски Център</BrokerName>
             <BrokerPhone>0887779990</BrokerPhone>
@@ -5222,6 +4904,509 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549f3e8b-11356236_145742237_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549e9f55-11356236_145742231_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549e6f16-11356236_145742223_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110605</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>3</BuildType>
+            <BuildTypeName>Панел</BuildTypeName>
+            <Floor>5</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>135000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>90</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>702</EstateSubRegion>
+            <EstateSubRegionName>гр.Айтос</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в Айтос!
+
+МЕСТОПОЛОЖЕНИЕ: Айтос е едно от онези автентични, исторически наситени и живописни кътчета в Югоизточна България, където меките хълмове на Стара планина срещат широките и плодородни полета, създавайки уникална атмосфера на спокойствие, зеленина и неподправена хармония. Градът но̀си усещане за уют, защитеност и дълбока връзка с природата, прочут със своите забележителни природни пейзажи и традиционен дух. Имотът е изкусно ситуиран в тиха, комуникативна и зелена част на града, предлагаща перфектен баланс между динамиката на ежедневието и уединението на домашния уют, разкриваща съвършена среда за пълноценен живот и заслужен отдих.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 90 кв.м., оформяйки съвършен, светъл и хармоничен семеен дом. Жилището посреща с великолепен, просторен хол с кухненски бокс, създаден за топли и споделени мигове, две уютни и спокойни спални за пълноценен релакс и уединение, както и стилна баня с тоалетна. Безспорно допълнение към уюта е очарователната тераса, която кани меката слънчева светлина и чистия планински въздух да станат неразделна част от Вашето ежедневие.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта и хармонията на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110605]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5b57d-009.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5955d-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5f6a2-011.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb61592-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5d626-010.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110987</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>5</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>110000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>60</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>765</EstateSubRegion>
+            <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Созопол!
+
+МЕСТОПОЛОЖЕНИЕ: Созопол е едно от най-магичните, романтични и древни кътчета по българското Черноморие, където хилядолетната история се преплита с лазурните води и златистите плажове, създаващи неповторима бохемска атмосфера. Градът но̀си усещане за вечност, изкуство и морска приказка, събрала тесни калдъръмени улички, стари къщи и безкрайни морски хоризонти. Имотът е изкусно ситуиран в това вълшебно място, предлагайки перфектен баланс между бързия достъп до морския бряг и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих или незабравими летни мигове.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 60 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на бъдещите споделени мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на възможностите, чистото платно и съвършената свобода да сътворим дома на своите мечти. Предлага се необзаведен, отворил своите гостоприемни врати за Вашите лични интериорни виждания, дизайнерски вдъхновения и творчески пориви. Това пространство Ви дава уникалната възможност да вложите своя собствен стил, цвят и характер във всеки детайл, създавайки неповторим и уютен оазис, напълно отговарящ на Вашия индивидуален вкус и ритъм на живот.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110987]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804279006-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab280427b0ab-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804282733-011.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804284082-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab28042801bb-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab280427d9e7-009.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110976</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>5</EstateType>
+            <EstateTypeName>Едностаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>6</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>57000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>24</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>551</EstateSubRegion>
+            <EstateSubRegionName>Възраждане</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едностаен апартамент във Възраждане!
+
+МЕСТОПОЛОЖЕНИЕ: Възраждане е един от най-живите, комуникативни и предпочитани градски квартали, съчетаващ динамичния ритъм на ежедневието с уютната атмосфера на спокойните улици. Място, което но̀си усещане за удобство, подреденост и лесен достъп до всичко необходимо, където градският живот среща домашния комфорт. Имотът е изкусно ситуиран в тази търсена и престижна среда, предлагаща перфектен баланс между бързия достъп до основни пътни артерии, магазини, заведения и уединението на тихата жилищна среда, разкриваща съвършена сцена за динамичен градски живот или успешна инвестиция.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и интелигентна архитектурна мисъл върху площ от 24 кв.м., оформяйки компактен и съвършено организиран градски дом. Жилището посреща с практично антре, което въвежда в уютен хол с кухненски бокс, съчетаващ топлината на споделените мигове и ежедневието. Елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт, докато очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от Вашия нов дом.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на гъвкавостта и възможностите за надграждане. Предлага се полуобзаведен, съчетавайки основни удобства с поле за изява на Вашия собствен интериорен вкус и личен стил. Това балансирано състояние Ви дава свободата да довършите и оформите интериора според личните си виждания, превръщайки го в уютен и индивидуален градски оазис, готов да отговори напълно на Вашия ритъм на живот.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110976]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb652908-006.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb657b2b-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb6553b8-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb64fadd-005.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110732</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>2</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>75000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>65</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните, слънчени и динамични кътчета по българското Черноморие, утвърден курорт с добре развита инфраструктура, прекрасни плажни ивици и разнообразни удобства. Място, което но̀си усещане за удобен достъп до търговски обекти, заведения, аптеки, сезонни услуги и бързи транспортни връзки към Бургас и съседните морски селища. Имотът е изкусно ситуиран в този популярен район, съчетаващ динамиката на курортната среда с възможността за целогодишно или сезонно обитаване, разкриващо съвършена сцена за почивка или пълноценен живот.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 65 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с практично антре и великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове, зоната за хранене и практичността на ежедневието. Голямата и спокойна самостоятелна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване и практично обитаване. Всяко кътче е подредено с грижа, финес и стил, съчетавайки дневната зона, самостоятелната спалня и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110732]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab870a-009.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab0f90-006.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22abb716-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab5a24-008.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab344a-007.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109632</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>1</Floor>
+            <FloorAll>3</FloorAll>
+            <Price>115000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>75</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>556</EstateSubRegion>
+            <EstateSubRegionName>Индустриална Зона</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Пети километър!
+
+МЕСТОПОЛОЖЕНИЕ: Пети километър е едно от онези спокойни, зеленисващи се и уютни кътчета в северната част на Бургас, които съчетават усещането за истински квартален живот с бързия и удобен достъп до пулса на града. Място, което но̀си усещане за защитеност, тишина и бягство от натоварения централен ритъм, без компромис с удобствата на съвременното ежедневие. Имотът е изкусно ситуиран в тази тиха и комуникативна среда, предлагаща перфектен баланс между спокойствието на домашния уют и бързата връзка с основните пътни артерии, магазини и услуги, разкриваща съвършена сцена за пълноценен и хармоничен живот.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху чиста жилищна площ от 75 кв.м., оформяйки съвършен и просторен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с уютен хол, самостоятелна кухня, създадена за топли и споделени мигове, и спокойна спалня за пълноценен релакс и уединение. Безспорно богатство към имота са допълнителните пространства – просторна изба с площ от 12.44 кв.м., светла таванска стая с площ от 15.24 кв.м., както и прилежаща собствена земя с площ от 205 кв.м. с налична скица на поземления имот, съчетаващи жилищния комфорт с редки допълнителни възможности на открито.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на гъвкавостта, практичността и възможностите за индивидуален почерк. Предлага се полуобзаведен, като наличното обзавеждане позволява незабавно и практично използване, докато останалата част от пространството дава свобода да бъде довършено и оформено според личните Ви предпочитания. Допълнително предимство е липсата на такса поддръжка, както и отличната възможност за придобиване на пакета с атрактивна цена от 110 000 € за жилището и допълнителна цена от 10 000 € за прилежащата земя (с налични схеми и скици). Това е перфектната основа за създаване на Вашия нов собствен дом без излишни ограничения.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109632]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1960adb-05-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1963b2c-07-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f196fc8a-12-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1966bf4-08-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109435</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>4</FloorAll>
+            <Price>109000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>64</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните, слънчени и динамични кътчета по българското Черноморие, където между морския хоризонт и оживената курортна ивица се разкрива неговият характерен ритъм. Място, което но̀си усещане за бърз достъп до плажа, разнообразни магазини и заведения, както и удобни връзки към Бургас и съседните населени места. Курортът съчетава възможностите за почивка край морето с удобствата на развита туристическа среда, което прави района изключително подходящ както за собствено ползване, така и за ваканционен престой.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 64 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието, където дневната зона и мястото за хранене се сливат в общо уютно пространство. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва функционалността на отделните помещения и позволява жилището да бъде използвано комфортно от първия ден. Всяко кътче е подредено с грижа, финес и стил, съчетавайки дневната зона, самостоятелната спалня и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен морски оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109435]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad761f0-image--1-2-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad7cb7f-image--1-4-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad7edf2-image--1-5-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109088</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>10</EstateType>
+            <EstateTypeName>Многостаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>2</Floor>
+            <FloorAll>3</FloorAll>
+            <Price>358000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>130</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>551</EstateSubRegion>
+            <EstateSubRegionName>Възраждане</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание многостаен апартамент във Възраждане!
+
+МЕСТОПОЛОЖЕНИЕ: Възраждане но̀си плътния, жив и автентичен ритъм на Бургас, съчетавайки тихите жилищни улици, близките магазини и бързия път към сърцето на града, без да се налага да търсите удобствата надалеч. Тук ежедневието е истински градско и уютно: спирки, училища, заведения и услуги са естествена част от кварталната тъкан, а морският полъх и близостта до центъра създават усещане за пълнота. Кварталът живее човешки и топло – с зеленина, дворове и вечерна тишина след работния шум. Да притежаваш многостайно жилище със собствено дворно място в такава среда е истински и рядък градски жест, съчетаващ простора на семеен дом и свободата на земята под откритото небе, без да се налага да излизате извън пределите на града.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху внушителната площ от 130 кв.м., оформяйки съвършен и хармоничен семеен дом. Жилището посреща с функционален коридор, който води към великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието. Трите уютни и спокойни спални осигуряват лично пространство и дълбок, възстановяващ релакс за цялото семейство, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от ежедневието. Безспорно богатство и изключителна рядкост за градски имот са прилежащото дворно място от 90 кв.м., разширяващо възможностите за отдих под откритото небе, както и просторният таван от 23 кв.м. и мазето от 15 кв.м., осигуряващи съвършени допълнителни пространства за съхранение и сезонни вещи.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва отделните помещения и позволява жилището да бъде използвано във вида, в който се предлага. Дневната зона, трите спални и всички допълнителни площи са организирани с мисъл за ежедневния битов комфорт, без основната жилищна площ да бъде натоварвана с вещи. В комбинация с великолепния двор, мазето и тавана, този имот предлага цялостна, хармонична и готова среда за пълноценен и спокоен живот.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109088]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb1d4be-_file6a1dd751c4989-69878-7-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb21422-11335248_145595553_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb240e4-11335248_145595582_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb3107a-11335248_145595954_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb2ca9e-11335248_145595656_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb299d0-11335248_145595622_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109034</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>102000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>97</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>781</EstateSubRegion>
+            <EstateSubRegionName>гр.Ахелой</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в Ахелой!
+
+МЕСТОПОЛОЖЕНИЕ: Ахелой е едно от онези вълшебни, тихи и омиротворяващи кътчета по българското Черноморие, където морската шир и мекият полъх сътворяват съвършена хармония за духа. Сгушен живописно между динамиката на Бургас и блясъка на Слънчев бряг, градът но̀си усещане за автентичен крайморски романс, уют и заслужено бягство от забързания свят. Имотът е изкусно ситуиран в тази спокойна и гостоприемна среда, предлагаща перфектен баланс между плажовете, търговските обекти и лекия достъп до основните пътни артерии, разкриваща съвършена сцена за целогодишно обитаване или пълноценна ваканция.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 97 кв.м., оформяйки съвършен и хармоничен семеен дом. Жилището посреща с великолепна, просторна всекидневна с кухненски бокс, съчетаваща топлината на споделените мигове, зоната за хранене и практичността на ежедневието. Двете уютни и спокойни спални осигуряват лично пространство и дълбок, възстановяващ релакс за цялото семейство, а елегантната голяма баня с тоалетна и втората малка баня са проектирани с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашето ежедневие.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно нанасяне в сегашния си вид. Всяко кътче е подредено с грижа, финес и стил, съчетавайки просторната дневна зона, двете самостоятелни спални, двата санитарни възела и уютната тераса в хармонична среда, спестяваща всякакви грижи, за да можете веднага да се потопите в уюта на Вашия нов собствен морски оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109034]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee62cb1-11317789_145468797_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee5eb8f-11317789_145468796_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee5b845-11317789_145468716_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee57916-11317789_145468712_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>108969</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>4</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>78000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>50</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>806</EstateSubRegion>
+            <EstateSubRegionName>с.Равда</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Равда!
+
+МЕСТОПОЛОЖЕНИЕ: Равда е едно от онези предпочитани, чаровни и омиротворяващи кътчета по южното Черноморие, сгушено живописно между историческия блясък на Несебър и динамиката на Слънчев бряг. Място, което но̀си усещане за автентичен крайморски романс, съчетаващ близостта до лазурните морски води с по-спокойна, уютна и хармонична среда за почивка. Имотът е изкусно ситуиран в тази гостоприемна зона, предлагаща перфектен баланс между оживените плажни ивици, търговските обекти и лесния достъп до околните курортни центрове, разкриваща съвършена сцена за целогодишно обитаване или пълноценна ваканция край морето.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 50 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове, дневната зона и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот, предоставяйки приятно пространство на открито.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване във вида, в който се предлага. Всяко кътче е подредено с грижа, финес и стил, съчетавайки функционалната дневна зона, самостоятелната спалня и пространството на открито в хармонична среда, спестяваща всякакви грижи, за да можете веднага да се потопите в уюта на Вашия нов собствен морски оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 108969]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d33449d-011.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d336e66-012.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d3292a6-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d33175b-010.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d32e450-009.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>108918</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>9</EstateType>
+            <EstateTypeName>Тристаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>6</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>180000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>108</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>806</EstateSubRegion>
+            <EstateSubRegionName>с.Равда</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание тристаен апартамент в Равда!
+
+МЕСТОПОЛОЖЕНИЕ: По живописната крайбрежна дъга между историческия блясък на Несебър и динамиката на Слънчев бряг, Равда предлага приятна и вдъхновяваща комбинация от близост до морската шир и по-спокойна, омиротворяваща среда за ежедневие и отдих. Място, което но̀си усещане за уют и автентичен крайморски чар – тук плажът е на крачка разстояние, а курортният шум остава встрани, докато магазините, заведенията и удобният път към околните курортни центрове са напълно достъпни. Имотът е изкусно ситуиран в това гостоприемно селище, съхранило своя характерен спокоен ритъм, което го прави съвършено място за хора, искащи да бъдат близо до морето, без да правят компромис с хармонията и домашния комфорт.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 108 кв.м., оформяйки съвършен и светъл семеен дом. Жилището посреща с великолепна, просторна дневна зона, съчетаваща в едно елегантен хол, кът за хранене и практична кухня за топли и споделени мигове. Двете самостоятелни и уютни спални осигуряват лично пространство и дълбок, възстановяващ релакс, правейки разпределението изключително удобно за семейно обитаване или посрещане на гости. Стилно проектираната баня с тоалетна надгражда функционалността, а широката тераса разширява използваемото пространство, канейки меката слънчева светлина и морския бриз навън.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно нанасяне в настоящия му вид. Всяко кътче е подредено с грижа, финес и стил, а внушителната площ от 108 кв.м. осигурява достатъчно простор за пълноценно ежедневие, където всяка от основните зони има своето ясно предназначение. Това е съвършената жилищна среда, съчетаваща семеен уют и безгрижна почивка край брега.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 108918]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3251e-1c178592218306355_Oq-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf2cb79-1c178592218306355_Nn-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3546f-1c178592218306355_qg-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf252c5-1c178592218306355_9I-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf2a18c-1c178592218306355_GA-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3a925-1c178592218306355_Vb-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf27b13-1c178592218306355_aM-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>108880</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>5</EstateType>
+            <EstateTypeName>Едностаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>1</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>50000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>39</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едностаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-разпознаваемите, слънчени и динамични кътчета по българското Черноморие – място, където морският хоризонт се слива с енергията на лятото и пулса на съвременния курортен живот. Място, което но̀си усещане за бърз и лесен достъп до златната плажна линия, изискани заведения, магазини и всички удобства на прекрасната курортна среда. Имотът е изкусно ситуиран в тази вълнуваща зона, съчетаваща близостта до историческия Несебър и удобните връзки с Бургас, разкриваща съвършена сцена за незабравими морски мигове, почивка или успешна инвестиция.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху компактната площ от 39 кв.м., оформяйки съвършен и функционален дом край морето. Жилището посреща с великолепна, светла всекидневна с кухненски бокс и елегантно обособен спален кът, съчетаващи топлината на споделените мигове, практичността на ежедневието и уединението за пълноценен релакс в рамките на едно общо, но перфектно организирано пространство. Елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт, докато очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва функционалността на помещенията и позволява незабавно нанасяне от първия ден. Всяко кътче е подредено с грижа, финес и стил, съчетавайки всекидневната, кухненския бокс, спалния кът и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен морски оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 108880]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0ea9023-11331079_145558698_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0eacd07-11331079_145558699_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0eb1d01-11331079_145558701_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>108825</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>5</Floor>
+            <FloorAll>9</FloorAll>
+            <Price>139900</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>63</SurfaceAll>
+            <EstateRegion>11</EstateRegion>
+            <EstateRegionName>Бургас</EstateRegionName>
+            <EstateSubRegion>560</EstateSubRegion>
+            <EstateSubRegionName>Меден Рудник</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Меден рудник!
+
+МЕСТОПОЛОЖЕНИЕ: Меден рудник е един от най-динамичните, оживени и същевременно уютни квартали на Бургас, но̀сещ усещане за истински градски живот, съчетан с удобна и бърза връзка с всички точки на града и морския бряг. Място, където на пешеходно разстояние са разположени магазини, спирки и разнообразни услуги, улесняващи динамичното ежедневие, без да се губи чувството за домашен уют и спокойствие. Имотът е изкусно ситуиран в тази комуникативна среда, предлагаща перфектен баланс между активния градски ритъм и уединението на личния оазис, разкриваща съвършена сцена за пълноценен живот.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху площ от 63 кв.м., оформяйки съвършен и устроен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с практична кухня с кухненски бокс, съчетаваща топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс. Безспорно удобство е отделното мокро помещение, което извежда домакинските дейности извън основната жилищна част, докато елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване в настоящия му вид. Всяко кътче е подредено с грижа, финес и стил, съчетавайки функционалната кухня, самостоятелната спалня, практичното мокро помещение и пространството на открито в хармонична среда. Тази добре организирана площ от 63 кв.м. спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен дом.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 108825]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a8195c53-11329897_145550960_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819b114-11329897_145550974_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819d103-11329897_145550981_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81a4139-11329897_145550987_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81a1b32-11329897_145550986_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819f4a3-11329897_145550985_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81922cc-11329897_145550989_big-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
