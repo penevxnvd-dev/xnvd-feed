@@ -79,10 +79,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.709625",
-      "long": "27.743706"
     }
   },
   {
@@ -117,10 +113,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.159225",
-      "long": "27.847510"
     }
   },
   {
@@ -155,10 +147,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.161105",
-      "long": "27.838408"
     }
   },
   {
@@ -193,10 +181,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.168938",
-      "long": "27.834300"
     }
   },
   {
@@ -233,10 +217,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.270218",
-      "long": "27.743826"
-    },
     "beds_number": "12"
   },
   {
@@ -270,10 +250,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.267831",
-      "long": "27.746152"
     }
   },
   {
@@ -314,10 +290,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.265296",
-      "long": "27.745678"
     }
   },
   {
@@ -358,10 +330,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.517954",
-      "long": "27.467256"
     }
   },
   {
@@ -405,10 +373,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.838947",
-      "long": "26.847354"
-    },
     "area_yard": "610"
   },
   {
@@ -448,10 +412,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.701949",
-      "long": "27.809888"
     }
   },
   {
@@ -488,10 +448,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.461530",
-      "long": "26.971780"
-    },
     "area_yard": "700"
   },
   {
@@ -525,10 +481,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.595966",
-      "long": "27.389857"
     }
   },
   {
@@ -570,10 +522,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.512975",
-      "long": "27.468147"
     }
   },
   {
@@ -611,10 +559,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.698098",
-      "long": "27.260774"
     },
     "area_yard": "300"
   },
@@ -659,10 +603,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.392906",
-      "long": "27.262869"
     }
   },
   {
@@ -704,10 +644,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.674758",
-      "long": "27.702954"
     }
   },
   {
@@ -752,10 +688,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.560573",
-      "long": "27.526450"
     }
   },
   {
@@ -793,10 +725,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.347535",
-      "long": "27.181508"
     },
     "area_yard": "270"
   },
@@ -836,10 +764,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.751511",
-      "long": "27.693537"
     }
   },
   {
@@ -880,10 +804,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.464054",
-      "long": "27.403305"
     }
   },
   {
@@ -952,10 +872,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.398480",
-      "long": "27.707691"
     }
   },
   {
@@ -1035,10 +951,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.193723",
-      "long": "27.823244"
-    },
     "area_yard": "830"
   },
   {
@@ -1073,10 +985,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.433559",
-      "long": "27.495500"
     }
   },
   {
@@ -1117,10 +1025,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.520251",
-      "long": "27.466801"
     }
   },
   {
@@ -1163,10 +1067,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.408942",
-      "long": "27.718563"
     }
   },
   {
@@ -1208,10 +1108,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.561589",
-      "long": "27.602255"
     }
   },
   {
@@ -1253,10 +1149,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.704073",
-      "long": "27.793234"
     }
   },
   {
@@ -1297,10 +1189,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.652739",
-      "long": "27.695941"
     }
   },
   {
@@ -1338,10 +1226,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.419881",
-      "long": "27.644871"
     }
   },
   {
@@ -1390,10 +1274,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.694169",
-      "long": "27.707093"
     }
   },
   {
@@ -1431,10 +1311,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.462314",
-      "long": "27.411834"
     }
   },
   {
@@ -1478,10 +1354,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.646149",
-      "long": "27.652119"
     }
   },
   {
@@ -1522,10 +1394,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.715266",
-      "long": "27.745793"
     }
   },
   {
@@ -1567,10 +1435,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.563054",
-      "long": "27.533970"
     }
   },
   {
@@ -1614,10 +1478,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.698747",
-      "long": "27.710823"
     }
   },
   {
@@ -1659,10 +1519,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.560584",
-      "long": "27.526442"
     }
   },
   {
@@ -1704,10 +1560,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.407371",
-      "long": "27.703777"
     }
   },
   {
@@ -1747,10 +1599,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.213646",
-      "long": "27.803399"
     }
   },
   {
@@ -1792,10 +1640,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.406904",
-      "long": "27.678968"
     }
   },
   {
@@ -1839,10 +1683,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.524556",
-      "long": "27.461490"
     }
   },
   {
@@ -1923,10 +1763,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.712047",
-      "long": "27.760446"
     }
   },
   {
@@ -1967,10 +1803,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.668779",
-      "long": "27.708646"
     }
   },
   {
@@ -2019,10 +1851,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.692922",
-      "long": "27.709731"
     }
   },
   {
@@ -2064,10 +1892,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.451867",
-      "long": "27.419865"
     }
   },
   {
@@ -2111,10 +1935,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.415085",
-      "long": "27.699206"
     }
   },
   {
@@ -2161,10 +1981,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.691170",
-      "long": "27.701945"
     }
   },
   {
@@ -2205,10 +2021,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.687459",
-      "long": "27.701045"
     }
   },
   {
@@ -2251,10 +2063,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.506748",
-      "long": "27.471046"
     }
   },
   {
@@ -2296,10 +2104,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.058871",
-      "long": "27.984314"
     }
   },
   {
@@ -2340,10 +2144,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.563711",
-      "long": "27.600802"
     }
   },
   {
@@ -2385,10 +2185,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.415442",
-      "long": "27.699115"
     }
   },
   {
@@ -2430,10 +2226,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.704296",
-      "long": "27.710487"
     }
   },
   {
@@ -2475,10 +2267,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.406509",
-      "long": "27.669747"
     }
   },
   {
@@ -2527,10 +2315,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.686632",
-      "long": "27.702265"
     }
   },
   {
@@ -2569,10 +2353,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.267732",
-      "long": "27.752921"
     },
     "area_yard": "76"
   },
@@ -2615,10 +2395,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.384455",
-      "long": "27.709978"
     }
   },
   {
@@ -2660,10 +2436,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.398889",
-      "long": "27.706056"
     }
   },
   {
@@ -2703,10 +2475,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.267612",
-      "long": "27.755976"
     }
   },
   {
@@ -2747,10 +2515,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.559884",
-      "long": "27.523032"
     }
   },
   {
@@ -2791,10 +2555,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.439154",
-      "long": "27.581814"
     }
   },
   {
@@ -2826,10 +2586,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.455784",
-      "long": "27.417242"
     }
   },
   {
@@ -2868,10 +2624,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.417655",
-      "long": "27.647306"
-    },
     "area_yard": "20"
   },
   {
@@ -2909,10 +2661,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.417727",
-      "long": "27.647253"
     }
   },
   {
@@ -2953,10 +2701,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.272986",
-      "long": "27.751591"
     }
   },
   {
@@ -2998,10 +2742,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.559851",
-      "long": "27.522568"
     }
   },
   {
@@ -3033,10 +2773,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.294226",
-      "long": "27.740520"
     }
   },
   {
@@ -3070,10 +2806,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.723962",
-      "long": "27.688266"
     }
   },
   {
@@ -3107,10 +2839,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.582495",
-      "long": "27.297854"
     }
   },
   {
@@ -3143,10 +2871,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.670275",
-      "long": "27.549358"
     }
   },
   {
@@ -3185,10 +2909,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.442710",
-      "long": "27.635729"
     }
   },
   {
@@ -3220,10 +2940,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.405926",
-      "long": "27.486725"
     }
   },
   {
@@ -3258,10 +2974,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.218602",
-      "long": "27.783791"
     },
     "area_yard": "500"
   },
@@ -3304,10 +3016,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.644664",
-      "long": "27.680355"
     }
   },
   {
@@ -3385,10 +3093,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.414971",
-      "long": "27.649274"
     },
     "area_yard": "4"
   },
@@ -3515,10 +3219,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.416140",
-      "long": "27.692965"
     }
   },
   {
@@ -3560,10 +3260,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.683963",
-      "long": "27.704262"
     }
   },
   {
@@ -3604,10 +3300,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.682097",
-      "long": "27.701573"
     }
   },
   {
@@ -3649,10 +3341,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.708512",
-      "long": "27.723113"
     }
   },
   {
@@ -3693,10 +3381,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.407337",
-      "long": "27.670882"
     }
   },
   {
@@ -3732,10 +3416,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.524875",
-      "long": "27.445413"
     }
   },
   {
@@ -3775,10 +3455,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.444369",
-      "long": "27.489595"
     }
   },
   {
@@ -3855,10 +3531,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.386095",
-      "long": "27.570797"
     }
   },
   {
@@ -3899,10 +3571,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.674198",
-      "long": "27.707865"
     }
   },
   {
@@ -3945,10 +3613,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.750018",
-      "long": "27.693807"
     }
   },
   {
@@ -4044,10 +3708,6 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "map": {
-      "lat": "42.640181",
-      "long": "27.679533"
-    },
     "beds_number": "20"
   },
   {
@@ -4088,10 +3748,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.699326",
-      "long": "27.256361"
     }
   },
   {
@@ -4136,10 +3792,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.699326",
-      "long": "27.256350"
     }
   },
   {
@@ -4183,10 +3835,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.408857",
-      "long": "27.677571"
     }
   },
   {
@@ -4223,10 +3871,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.229393",
-      "long": "27.775504"
     }
   },
   {
@@ -4264,10 +3908,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.560337",
-      "long": "27.546525"
     },
     "area_yard": "390"
   },
@@ -4310,10 +3950,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.388197",
-      "long": "27.704503"
     }
   },
   {
@@ -4349,10 +3985,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.439950",
-      "long": "27.646443"
     },
     "area_yard": "100"
   },
@@ -4393,10 +4025,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.402671",
-      "long": "27.716189"
     }
   },
   {
@@ -4434,10 +4062,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.420934",
-      "long": "27.644160"
     },
     "area_yard": "20"
   },
@@ -4479,10 +4103,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.407780",
-      "long": "27.678354"
     }
   },
   {
@@ -4518,10 +4138,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.395327",
-      "long": "27.705849"
     }
   },
   {
@@ -4562,10 +4178,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.171356",
-      "long": "27.851007"
     }
   },
   {
@@ -4603,10 +4215,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.414767",
-      "long": "27.652161"
     },
     "area_yard": "30"
   },
@@ -4649,10 +4257,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.684122",
-      "long": "27.703779"
     }
   },
   {
@@ -4692,10 +4296,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.671400",
-      "long": "27.701657"
     }
   },
   {
@@ -4737,10 +4337,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.685328",
-      "long": "27.705404"
     }
   },
   {
@@ -4788,10 +4384,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.493755",
-      "long": "27.462537"
     }
   },
   {
@@ -4833,10 +4425,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.338090",
-      "long": "27.190153"
     }
   },
   {
@@ -4872,10 +4460,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.222803",
-      "long": "27.782215"
     },
     "area_yard": "50"
   },
@@ -4957,10 +4541,6 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    },
-    "map": {
-      "lat": "42.699748",
-      "long": "27.707949"
     }
   },
   {
@@ -4986,6 +4566,497 @@
     "construction_type": "Тухла",
     "construction_year": "2010",
     "floor_number": "3",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "110605",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Айтос",
+    "section_name": "",
+    "section_string": "",
+    "price": "135000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5b57d-009.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5955d-008.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5f6a2-011.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb61592-012.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110605/_file6ab4e8fb5d626-010.png"
+    ],
+    "name": "Тристаен апартамент в Айтос!",
+    "desc": "Компания Х представя на Вашето внимание тристаен апартамент в Айтос!\n\nМЕСТОПОЛОЖЕНИЕ: Айтос е едно от онези автентични, исторически наситени и живописни кътчета в Югоизточна България, където меките хълмове на Стара планина срещат широките и плодородни полета, създавайки уникална атмосфера на спокойствие, зеленина и неподправена хармония. Градът но̀си усещане за уют, защитеност и дълбока връзка с природата, прочут със своите забележителни природни пейзажи и традиционен дух. Имотът е изкусно ситуиран в тиха, комуникативна и зелена част на града, предлагаща перфектен баланс между динамиката на ежедневието и уединението на домашния уют, разкриваща съвършена среда за пълноценен живот и заслужен отдих.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 90 кв.м., оформяйки съвършен, светъл и хармоничен семеен дом. Жилището посреща с великолепен, просторен хол с кухненски бокс, създаден за топли и споделени мигове, две уютни и спокойни спални за пълноценен релакс и уединение, както и стилна баня с тоалетна. Безспорно допълнение към уюта е очарователната тераса, която кани меката слънчева светлина и чистия планински въздух да станат неразделна част от Вашето ежедневие.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта и хармонията на Вашия нов собствен оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 110605",
+    "type": "Тристаен апартамент",
+    "area": "90",
+    "construction_type": "Панел",
+    "construction_year": "1990",
+    "floor_number": "5",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "110987",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Созопол",
+    "section_name": "",
+    "section_string": "",
+    "price": "110000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804279006-007.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab280427b0ab-008.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804282733-011.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab2804284082-012.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab28042801bb-010.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110987/_file6ab280427d9e7-009.png"
+    ],
+    "name": "Двустаен апартамент в Созопол!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Созопол!\n\nМЕСТОПОЛОЖЕНИЕ: Созопол е едно от най-магичните, романтични и древни кътчета по българското Черноморие, където хилядолетната история се преплита с лазурните води и златистите плажове, създаващи неповторима бохемска атмосфера. Градът но̀си усещане за вечност, изкуство и морска приказка, събрала тесни калдъръмени улички, стари къщи и безкрайни морски хоризонти. Имотът е изкусно ситуиран в това вълшебно място, предлагайки перфектен баланс между бързия достъп до морския бряг и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих или незабравими летни мигове.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 60 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на бъдещите споделени мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на възможностите, чистото платно и съвършената свобода да сътворим дома на своите мечти. Предлага се необзаведен, отворил своите гостоприемни врати за Вашите лични интериорни виждания, дизайнерски вдъхновения и творчески пориви. Това пространство Ви дава уникалната възможност да вложите своя собствен стил, цвят и характер във всеки детайл, създавайки неповторим и уютен оазис, напълно отговарящ на Вашия индивидуален вкус и ритъм на живот.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 110987",
+    "type": "Двустаен апартамент",
+    "area": "60",
+    "construction_type": "Тухла",
+    "construction_year": "2022",
+    "floor_number": "5",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "110976",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Бургас",
+    "section_name": "Възраждане",
+    "section_string": "Възраждане",
+    "price": "57000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb652908-006.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb657b2b-008.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb6553b8-007.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110976/_file6ab25eb64fadd-005.png"
+    ],
+    "name": "Едностаен апартамент в Възраждане!",
+    "desc": "Компания Х представя на Вашето внимание едностаен апартамент във Възраждане!\n\nМЕСТОПОЛОЖЕНИЕ: Възраждане е един от най-живите, комуникативни и предпочитани градски квартали, съчетаващ динамичния ритъм на ежедневието с уютната атмосфера на спокойните улици. Място, което но̀си усещане за удобство, подреденост и лесен достъп до всичко необходимо, където градският живот среща домашния комфорт. Имотът е изкусно ситуиран в тази търсена и престижна среда, предлагаща перфектен баланс между бързия достъп до основни пътни артерии, магазини, заведения и уединението на тихата жилищна среда, разкриваща съвършена сцена за динамичен градски живот или успешна инвестиция.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и интелигентна архитектурна мисъл върху площ от 24 кв.м., оформяйки компактен и съвършено организиран градски дом. Жилището посреща с практично антре, което въвежда в уютен хол с кухненски бокс, съчетаващ топлината на споделените мигове и ежедневието. Елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт, докато очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от Вашия нов дом.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на гъвкавостта и възможностите за надграждане. Предлага се полуобзаведен, съчетавайки основни удобства с поле за изява на Вашия собствен интериорен вкус и личен стил. Това балансирано състояние Ви дава свободата да довършите и оформите интериора според личните си виждания, превръщайки го в уютен и индивидуален градски оазис, готов да отговори напълно на Вашия ритъм на живот.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 110976",
+    "type": "Едностаен апартамент",
+    "area": "24",
+    "construction_type": "Тухла",
+    "construction_year": "1999",
+    "floor_number": "6",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "110732",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Слънчев бряг",
+    "section_name": "",
+    "section_string": "",
+    "price": "75000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab870a-009.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab0f90-006.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22abb716-010.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab5a24-008.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties110732/_file6ab4f22ab344a-007.png"
+    ],
+    "name": "Двустаен апартамент в Слънчев бряг!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Слънчев бряг!\n\nМЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните, слънчени и динамични кътчета по българското Черноморие, утвърден курорт с добре развита инфраструктура, прекрасни плажни ивици и разнообразни удобства. Място, което но̀си усещане за удобен достъп до търговски обекти, заведения, аптеки, сезонни услуги и бързи транспортни връзки към Бургас и съседните морски селища. Имотът е изкусно ситуиран в този популярен район, съчетаващ динамиката на курортната среда с възможността за целогодишно или сезонно обитаване, разкриващо съвършена сцена за почивка или пълноценен живот.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 65 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с практично антре и великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове, зоната за хранене и практичността на ежедневието. Голямата и спокойна самостоятелна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване и практично обитаване. Всяко кътче е подредено с грижа, финес и стил, съчетавайки дневната зона, самостоятелната спалня и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 110732",
+    "type": "Двустаен апартамент",
+    "area": "65",
+    "construction_type": "Тухла",
+    "construction_year": "2011",
+    "floor_number": "2",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "109632",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Бургас",
+    "section_name": "Пети километър",
+    "section_string": "Пети километър",
+    "price": "115000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1960adb-05-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1963b2c-07-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f196fc8a-12-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109632/_file6a846f1966bf4-08-stamped.png"
+    ],
+    "name": "Двустаен апартамент в Пети километър!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Пети километър!\n\nМЕСТОПОЛОЖЕНИЕ: Пети километър е едно от онези спокойни, зеленисващи се и уютни кътчета в северната част на Бургас, които съчетават усещането за истински квартален живот с бързия и удобен достъп до пулса на града. Място, което но̀си усещане за защитеност, тишина и бягство от натоварения централен ритъм, без компромис с удобствата на съвременното ежедневие. Имотът е изкусно ситуиран в тази тиха и комуникативна среда, предлагаща перфектен баланс между спокойствието на домашния уют и бързата връзка с основните пътни артерии, магазини и услуги, разкриваща съвършена сцена за пълноценен и хармоничен живот.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху чиста жилищна площ от 75 кв.м., оформяйки съвършен и просторен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с уютен хол, самостоятелна кухня, създадена за топли и споделени мигове, и спокойна спалня за пълноценен релакс и уединение. Безспорно богатство към имота са допълнителните пространства – просторна изба с площ от 12.44 кв.м., светла таванска стая с площ от 15.24 кв.м., както и прилежаща собствена земя с площ от 205 кв.м. с налична скица на поземления имот, съчетаващи жилищния комфорт с редки допълнителни възможности на открито.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на гъвкавостта, практичността и възможностите за индивидуален почерк. Предлага се полуобзаведен, като наличното обзавеждане позволява незабавно и практично използване, докато останалата част от пространството дава свобода да бъде довършено и оформено според личните Ви предпочитания. Допълнително предимство е липсата на такса поддръжка, както и отличната възможност за придобиване на пакета с атрактивна цена от 110 000 € за жилището и допълнителна цена от 10 000 € за прилежащата земя (с налични схеми и скици). Това е перфектната основа за създаване на Вашия нов собствен дом без излишни ограничения.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 109632",
+    "type": "Двустаен апартамент",
+    "area": "75",
+    "construction_type": "Тухла",
+    "construction_year": "1985",
+    "floor_number": "1",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "109435",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Слънчев бряг",
+    "section_name": "",
+    "section_string": "",
+    "price": "109000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad761f0-image--1-2-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad7cb7f-image--1-4-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109435/_file6a7dfaad7edf2-image--1-5-stamped.png"
+    ],
+    "name": "Двустаен апартамент в Слънчев бряг!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Слънчев бряг!\n\nМЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните, слънчени и динамични кътчета по българското Черноморие, където между морския хоризонт и оживената курортна ивица се разкрива неговият характерен ритъм. Място, което но̀си усещане за бърз достъп до плажа, разнообразни магазини и заведения, както и удобни връзки към Бургас и съседните населени места. Курортът съчетава възможностите за почивка край морето с удобствата на развита туристическа среда, което прави района изключително подходящ както за собствено ползване, така и за ваканционен престой.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 64 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието, където дневната зона и мястото за хранене се сливат в общо уютно пространство. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва функционалността на отделните помещения и позволява жилището да бъде използвано комфортно от първия ден. Всяко кътче е подредено с грижа, финес и стил, съчетавайки дневната зона, самостоятелната спалня и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен морски оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 109435",
+    "type": "Двустаен апартамент",
+    "area": "64",
+    "construction_type": "Тухла",
+    "construction_year": "2016",
+    "floor_number": "4",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "109088",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Бургас",
+    "section_name": "Възраждане",
+    "section_string": "Възраждане",
+    "price": "358000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb1d4be-_file6a1dd751c4989-69878-7-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb21422-11335248_145595553_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb240e4-11335248_145595582_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb3107a-11335248_145595954_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb2ca9e-11335248_145595656_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109088/_file6a75e5cb299d0-11335248_145595622_big-stamped.png"
+    ],
+    "name": "Многостаен апартамент в Възраждане!",
+    "desc": "Компания Х представя на Вашето внимание многостаен апартамент във Възраждане!\n\nМЕСТОПОЛОЖЕНИЕ: Възраждане но̀си плътния, жив и автентичен ритъм на Бургас, съчетавайки тихите жилищни улици, близките магазини и бързия път към сърцето на града, без да се налага да търсите удобствата надалеч. Тук ежедневието е истински градско и уютно: спирки, училища, заведения и услуги са естествена част от кварталната тъкан, а морският полъх и близостта до центъра създават усещане за пълнота. Кварталът живее човешки и топло – с зеленина, дворове и вечерна тишина след работния шум. Да притежаваш многостайно жилище със собствено дворно място в такава среда е истински и рядък градски жест, съчетаващ простора на семеен дом и свободата на земята под откритото небе, без да се налага да излизате извън пределите на града.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху внушителната площ от 130 кв.м., оформяйки съвършен и хармоничен семеен дом. Жилището посреща с функционален коридор, който води към великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието. Трите уютни и спокойни спални осигуряват лично пространство и дълбок, възстановяващ релакс за цялото семейство, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от ежедневието. Безспорно богатство и изключителна рядкост за градски имот са прилежащото дворно място от 90 кв.м., разширяващо възможностите за отдих под откритото небе, както и просторният таван от 23 кв.м. и мазето от 15 кв.м., осигуряващи съвършени допълнителни пространства за съхранение и сезонни вещи.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва отделните помещения и позволява жилището да бъде използвано във вида, в който се предлага. Дневната зона, трите спални и всички допълнителни площи са организирани с мисъл за ежедневния битов комфорт, без основната жилищна площ да бъде натоварвана с вещи. В комбинация с великолепния двор, мазето и тавана, този имот предлага цялостна, хармонична и готова среда за пълноценен и спокоен живот.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 109088",
+    "type": "Многостаен апартамент",
+    "area": "130",
+    "construction_type": "Тухла",
+    "construction_year": "1965",
+    "floor_number": "2",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "109034",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Ахелой",
+    "section_name": "",
+    "section_string": "",
+    "price": "102000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee62cb1-11317789_145468797_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee5eb8f-11317789_145468796_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee5b845-11317789_145468716_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties109034/_file6a75a5ee57916-11317789_145468712_big-stamped.png"
+    ],
+    "name": "Тристаен апартамент в Ахелой!",
+    "desc": "Компания Х представя на Вашето внимание тристаен апартамент в Ахелой!\n\nМЕСТОПОЛОЖЕНИЕ: Ахелой е едно от онези вълшебни, тихи и омиротворяващи кътчета по българското Черноморие, където морската шир и мекият полъх сътворяват съвършена хармония за духа. Сгушен живописно между динамиката на Бургас и блясъка на Слънчев бряг, градът но̀си усещане за автентичен крайморски романс, уют и заслужено бягство от забързания свят. Имотът е изкусно ситуиран в тази спокойна и гостоприемна среда, предлагаща перфектен баланс между плажовете, търговските обекти и лекия достъп до основните пътни артерии, разкриваща съвършена сцена за целогодишно обитаване или пълноценна ваканция.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 97 кв.м., оформяйки съвършен и хармоничен семеен дом. Жилището посреща с великолепна, просторна всекидневна с кухненски бокс, съчетаваща топлината на споделените мигове, зоната за хранене и практичността на ежедневието. Двете уютни и спокойни спални осигуряват лично пространство и дълбок, възстановяващ релакс за цялото семейство, а елегантната голяма баня с тоалетна и втората малка баня са проектирани с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашето ежедневие.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно нанасяне в сегашния си вид. Всяко кътче е подредено с грижа, финес и стил, съчетавайки просторната дневна зона, двете самостоятелни спални, двата санитарни възела и уютната тераса в хармонична среда, спестяваща всякакви грижи, за да можете веднага да се потопите в уюта на Вашия нов собствен морски оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 109034",
+    "type": "Тристаен апартамент",
+    "area": "97",
+    "construction_type": "Тухла",
+    "construction_year": "2017",
+    "floor_number": "4",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "108969",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "с.Равда",
+    "section_name": "",
+    "section_string": "",
+    "price": "78000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d33449d-011.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d336e66-012.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d3292a6-007.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d33175b-010.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108969/_file6ab4f5d32e450-009.png"
+    ],
+    "name": "Двустаен апартамент в Равда!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Равда!\n\nМЕСТОПОЛОЖЕНИЕ: Равда е едно от онези предпочитани, чаровни и омиротворяващи кътчета по южното Черноморие, сгушено живописно между историческия блясък на Несебър и динамиката на Слънчев бряг. Място, което но̀си усещане за автентичен крайморски романс, съчетаващ близостта до лазурните морски води с по-спокойна, уютна и хармонична среда за почивка. Имотът е изкусно ситуиран в тази гостоприемна зона, предлагаща перфектен баланс между оживените плажни ивици, търговските обекти и лесния достъп до околните курортни центрове, разкриваща съвършена сцена за целогодишно обитаване или пълноценна ваканция край морето.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 50 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове, дневната зона и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот, предоставяйки приятно пространство на открито.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване във вида, в който се предлага. Всяко кътче е подредено с грижа, финес и стил, съчетавайки функционалната дневна зона, самостоятелната спалня и пространството на открито в хармонична среда, спестяваща всякакви грижи, за да можете веднага да се потопите в уюта на Вашия нов собствен морски оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 108969",
+    "type": "Двустаен апартамент",
+    "area": "50",
+    "construction_type": "Тухла",
+    "construction_year": "2020",
+    "floor_number": "4",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "108918",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "с.Равда",
+    "section_name": "",
+    "section_string": "",
+    "price": "180000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3251e-1c178592218306355_Oq-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf2cb79-1c178592218306355_Nn-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3546f-1c178592218306355_qg-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf252c5-1c178592218306355_9I-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf2a18c-1c178592218306355_GA-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf3a925-1c178592218306355_Vb-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108918/_file6a7336cf27b13-1c178592218306355_aM-stamped.png"
+    ],
+    "name": "Тристаен апартамент в Равда!",
+    "desc": "Компания Х представя на Вашето внимание тристаен апартамент в Равда!\n\nМЕСТОПОЛОЖЕНИЕ: По живописната крайбрежна дъга между историческия блясък на Несебър и динамиката на Слънчев бряг, Равда предлага приятна и вдъхновяваща комбинация от близост до морската шир и по-спокойна, омиротворяваща среда за ежедневие и отдих. Място, което но̀си усещане за уют и автентичен крайморски чар – тук плажът е на крачка разстояние, а курортният шум остава встрани, докато магазините, заведенията и удобният път към околните курортни центрове са напълно достъпни. Имотът е изкусно ситуиран в това гостоприемно селище, съхранило своя характерен спокоен ритъм, което го прави съвършено място за хора, искащи да бъдат близо до морето, без да правят компромис с хармонията и домашния комфорт.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 108 кв.м., оформяйки съвършен и светъл семеен дом. Жилището посреща с великолепна, просторна дневна зона, съчетаваща в едно елегантен хол, кът за хранене и практична кухня за топли и споделени мигове. Двете самостоятелни и уютни спални осигуряват лично пространство и дълбок, възстановяващ релакс, правейки разпределението изключително удобно за семейно обитаване или посрещане на гости. Стилно проектираната баня с тоалетна надгражда функционалността, а широката тераса разширява използваемото пространство, канейки меката слънчева светлина и морския бриз навън.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно нанасяне в настоящия му вид. Всяко кътче е подредено с грижа, финес и стил, а внушителната площ от 108 кв.м. осигурява достатъчно простор за пълноценно ежедневие, където всяка от основните зони има своето ясно предназначение. Това е съвършената жилищна среда, съчетаваща семеен уют и безгрижна почивка край брега.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 108918",
+    "type": "Тристаен апартамент",
+    "area": "108",
+    "construction_type": "Тухла",
+    "construction_year": "2016",
+    "floor_number": "6",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "108880",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Слънчев бряг",
+    "section_name": "",
+    "section_string": "",
+    "price": "50000",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0ea9023-11331079_145558698_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0eacd07-11331079_145558699_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108880/_file6a730b0eb1d01-11331079_145558701_big-stamped.png"
+    ],
+    "name": "Едностаен апартамент в Слънчев бряг!",
+    "desc": "Компания Х представя на Вашето внимание едностаен апартамент в Слънчев бряг!\n\nМЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-разпознаваемите, слънчени и динамични кътчета по българското Черноморие – място, където морският хоризонт се слива с енергията на лятото и пулса на съвременния курортен живот. Място, което но̀си усещане за бърз и лесен достъп до златната плажна линия, изискани заведения, магазини и всички удобства на прекрасната курортна среда. Имотът е изкусно ситуиран в тази вълнуваща зона, съчетаваща близостта до историческия Несебър и удобните връзки с Бургас, разкриваща съвършена сцена за незабравими морски мигове, почивка или успешна инвестиция.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху компактната площ от 39 кв.м., оформяйки съвършен и функционален дом край морето. Жилището посреща с великолепна, светла всекидневна с кухненски бокс и елегантно обособен спален кът, съчетаващи топлината на споделените мигове, практичността на ежедневието и уединението за пълноценен релакс в рамките на едно общо, но перфектно организирано пространство. Елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт, докато очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, като наличното обзавеждане перфектно допълва функционалността на помещенията и позволява незабавно нанасяне от първия ден. Всяко кътче е подредено с грижа, финес и стил, съчетавайки всекидневната, кухненския бокс, спалния кът и пространството на открито в хармонична среда, която спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен морски оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 108880",
+    "type": "Едностаен апартамент",
+    "area": "39",
+    "construction_type": "Тухла",
+    "construction_year": "2008",
+    "floor_number": "1",
+    "floor_position": "Непоследен",
+    "construction_stage": "Готов (завършен)",
+    "features": [
+      "Обзаведен"
+    ],
+    "contacts": {
+      "phones": [
+        "0887779990",
+        "0882009283"
+      ],
+      "email": "xnvd.company@gmail.com",
+      "website": "http://www.xnvd.bg",
+      "hide_name": "FALSE",
+      "hide_location": "FALSE",
+      "hide_address": "FALSE",
+      "hide_website": "FALSE"
+    }
+  },
+  {
+    "out_id": "108825",
+    "subcat_id": "456",
+    "region_name": "Бургас",
+    "location_name": "Бургас",
+    "section_name": "Меден рудник",
+    "section_string": "Меден рудник",
+    "price": "139900",
+    "currency": "EUR",
+    "images": [
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a8195c53-11329897_145550960_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819b114-11329897_145550974_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819d103-11329897_145550981_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81a4139-11329897_145550987_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81a1b32-11329897_145550986_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819f4a3-11329897_145550985_big-stamped.png",
+      "https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81922cc-11329897_145550989_big-stamped.png"
+    ],
+    "name": "Двустаен апартамент в Меден рудник!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Меден рудник!\n\nМЕСТОПОЛОЖЕНИЕ: Меден рудник е един от най-динамичните, оживени и същевременно уютни квартали на Бургас, но̀сещ усещане за истински градски живот, съчетан с удобна и бърза връзка с всички точки на града и морския бряг. Място, където на пешеходно разстояние са разположени магазини, спирки и разнообразни услуги, улесняващи динамичното ежедневие, без да се губи чувството за домашен уют и спокойствие. Имотът е изкусно ситуиран в тази комуникативна среда, предлагаща перфектен баланс между активния градски ритъм и уединението на личния оазис, разкриваща съвършена сцена за пълноценен живот.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху площ от 63 кв.м., оформяйки съвършен и устроен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с практична кухня с кухненски бокс, съчетаваща топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс. Безспорно удобство е отделното мокро помещение, което извежда домакинските дейности извън основната жилищна част, докато елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и свежия въздух да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване в настоящия му вид. Всяко кътче е подредено с грижа, финес и стил, съчетавайки функционалната кухня, самостоятелната спалня, практичното мокро помещение и пространството на открито в хармонична среда. Тази добре организирана площ от 63 кв.м. спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен дом.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 108825",
+    "type": "Двустаен апартамент",
+    "area": "63",
+    "construction_type": "Тухла",
+    "construction_year": "2026",
+    "floor_number": "5",
     "floor_position": "Непоследен",
     "construction_stage": "Готов (завършен)",
     "features": [
