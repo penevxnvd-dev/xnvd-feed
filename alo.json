@@ -39,7 +39,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "70"
+    "area_yard": "70",
+    "user_type": "company"
   },
   {
     "out_id": "54872",
@@ -79,7 +80,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59484",
@@ -113,7 +115,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59485",
@@ -147,7 +150,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59497",
@@ -181,7 +185,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "63457",
@@ -217,7 +222,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "beds_number": "12"
+    "beds_number": "12",
+    "user_type": "company"
   },
   {
     "out_id": "65184",
@@ -250,7 +256,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "67953",
@@ -290,7 +297,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "68562",
@@ -330,7 +338,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "69507",
@@ -373,7 +382,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "610"
+    "area_yard": "610",
+    "user_type": "company"
   },
   {
     "out_id": "69878",
@@ -412,7 +422,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "73869",
@@ -448,7 +459,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "700"
+    "area_yard": "700",
+    "user_type": "company"
   },
   {
     "out_id": "87595",
@@ -481,7 +493,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "91475",
@@ -522,7 +535,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "95862",
@@ -560,7 +574,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "300"
+    "area_yard": "300",
+    "user_type": "company"
   },
   {
     "out_id": "96880",
@@ -603,7 +618,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102151",
@@ -644,7 +660,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102500",
@@ -688,7 +705,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102955",
@@ -726,7 +744,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "270"
+    "area_yard": "270",
+    "user_type": "company"
   },
   {
     "out_id": "103321",
@@ -764,7 +783,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "103867",
@@ -804,7 +824,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "103872",
@@ -838,7 +859,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "104388",
@@ -872,7 +894,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105140",
@@ -903,7 +926,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105402",
@@ -951,7 +975,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "830"
+    "area_yard": "830",
+    "user_type": "company"
   },
   {
     "out_id": "106447",
@@ -985,7 +1010,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "106717",
@@ -1025,7 +1051,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "106970",
@@ -1067,7 +1094,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107761",
@@ -1108,7 +1136,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107763",
@@ -1149,7 +1178,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107830",
@@ -1189,7 +1219,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107847",
@@ -1226,7 +1257,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107980",
@@ -1274,7 +1306,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108091",
@@ -1311,7 +1344,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108106",
@@ -1354,7 +1388,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108124",
@@ -1394,7 +1429,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108414",
@@ -1435,7 +1471,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108609",
@@ -1478,7 +1515,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108613",
@@ -1519,7 +1557,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108667",
@@ -1560,7 +1599,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108697",
@@ -1599,7 +1639,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108700",
@@ -1640,7 +1681,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108702",
@@ -1683,7 +1725,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108733",
@@ -1723,7 +1766,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108818",
@@ -1763,7 +1807,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108824",
@@ -1803,7 +1848,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108890",
@@ -1851,7 +1897,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108900",
@@ -1892,7 +1939,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108914",
@@ -1935,7 +1983,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108924",
@@ -1981,7 +2030,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109017",
@@ -2021,7 +2071,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109087",
@@ -2063,7 +2114,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109107",
@@ -2104,7 +2156,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109112",
@@ -2144,7 +2197,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109120",
@@ -2185,7 +2239,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109122",
@@ -2226,7 +2281,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109132",
@@ -2267,7 +2323,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109137",
@@ -2315,7 +2372,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109203",
@@ -2354,7 +2412,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "76"
+    "area_yard": "76",
+    "user_type": "company"
   },
   {
     "out_id": "109246",
@@ -2395,7 +2454,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109265",
@@ -2436,7 +2496,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109289",
@@ -2475,7 +2536,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109393",
@@ -2515,7 +2577,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109399",
@@ -2555,7 +2618,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109400",
@@ -2586,7 +2650,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109462",
@@ -2624,7 +2689,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "20"
+    "area_yard": "20",
+    "user_type": "company"
   },
   {
     "out_id": "109470",
@@ -2661,7 +2727,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109482",
@@ -2701,7 +2768,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109667",
@@ -2742,7 +2810,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109668",
@@ -2773,7 +2842,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109671",
@@ -2806,7 +2876,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109692",
@@ -2839,7 +2910,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109695",
@@ -2871,7 +2943,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109701",
@@ -2909,7 +2982,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109715",
@@ -2940,7 +3014,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109766",
@@ -2975,7 +3050,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "500"
+    "area_yard": "500",
+    "user_type": "company"
   },
   {
     "out_id": "109799",
@@ -3016,7 +3092,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109801",
@@ -3057,7 +3134,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109830",
@@ -3094,7 +3172,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "4"
+    "area_yard": "4",
+    "user_type": "company"
   },
   {
     "out_id": "109991",
@@ -3135,7 +3214,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110139",
@@ -3178,7 +3258,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "100"
+    "area_yard": "100",
+    "user_type": "company"
   },
   {
     "out_id": "110243",
@@ -3219,7 +3300,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110262",
@@ -3260,7 +3342,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110287",
@@ -3300,7 +3383,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110290",
@@ -3341,7 +3425,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110378",
@@ -3381,7 +3466,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110450",
@@ -3416,7 +3502,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110722",
@@ -3455,7 +3542,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110784",
@@ -3497,7 +3585,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110859",
@@ -3531,7 +3620,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110861",
@@ -3571,7 +3661,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110862",
@@ -3613,7 +3704,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110954",
@@ -3659,7 +3751,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110955",
@@ -3708,7 +3801,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "beds_number": "20"
+    "beds_number": "20",
+    "user_type": "company"
   },
   {
     "out_id": "110956",
@@ -3748,7 +3842,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110957",
@@ -3792,7 +3887,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110071",
@@ -3835,7 +3931,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108622",
@@ -3871,7 +3968,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105432",
@@ -3909,7 +4007,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "390"
+    "area_yard": "390",
+    "user_type": "company"
   },
   {
     "out_id": "110103",
@@ -3950,7 +4049,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109464",
@@ -3986,7 +4086,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "100"
+    "area_yard": "100",
+    "user_type": "company"
   },
   {
     "out_id": "110106",
@@ -4025,7 +4126,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107788",
@@ -4063,7 +4165,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "20"
+    "area_yard": "20",
+    "user_type": "company"
   },
   {
     "out_id": "107815",
@@ -4103,7 +4206,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110244",
@@ -4138,7 +4242,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109119",
@@ -4178,7 +4283,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "100312",
@@ -4216,7 +4322,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "30"
+    "area_yard": "30",
+    "user_type": "company"
   },
   {
     "out_id": "108782",
@@ -4257,7 +4364,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "101388",
@@ -4296,7 +4404,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "101567",
@@ -4337,7 +4446,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "76511",
@@ -4384,7 +4494,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "79040",
@@ -4425,7 +4536,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "79532",
@@ -4461,7 +4573,8 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "50"
+    "area_yard": "50",
+    "user_type": "company"
   },
   {
     "out_id": "110946",
@@ -4502,7 +4615,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109239",
@@ -4541,7 +4655,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109533",
@@ -4582,7 +4697,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110605",
@@ -4623,7 +4739,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110987",
@@ -4665,7 +4782,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110976",
@@ -4705,7 +4823,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110732",
@@ -4746,7 +4865,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109632",
@@ -4786,7 +4906,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109435",
@@ -4825,7 +4946,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109088",
@@ -4867,7 +4989,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109034",
@@ -4907,7 +5030,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108969",
@@ -4948,7 +5072,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108918",
@@ -4991,7 +5116,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108880",
@@ -5030,7 +5156,8 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108825",
@@ -5073,6 +5200,7 @@
       "hide_location": "FALSE",
       "hide_address": "FALSE",
       "hide_website": "FALSE"
-    }
+    },
+    "user_type": "company"
   }
 ]
