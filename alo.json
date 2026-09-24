@@ -39,12 +39,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "70",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "70",
+    "user_type": "company"
   },
   {
     "out_id": "54872",
@@ -85,11 +85,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59484",
@@ -124,11 +124,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59485",
@@ -163,11 +163,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "59497",
@@ -202,11 +202,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "63457",
@@ -242,12 +242,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "beds_number": "12",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "beds_number": "12",
+    "user_type": "company"
   },
   {
     "out_id": "65184",
@@ -281,11 +281,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "67953",
@@ -326,11 +326,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "68562",
@@ -371,11 +371,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "69507",
@@ -418,12 +418,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "610",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "610",
+    "user_type": "company"
   },
   {
     "out_id": "69878",
@@ -463,11 +463,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "73869",
@@ -503,12 +503,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "700",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "700",
+    "user_type": "company"
   },
   {
     "out_id": "87595",
@@ -542,11 +542,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "91475",
@@ -588,11 +588,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "95862",
@@ -630,12 +630,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "300",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "300",
+    "user_type": "company"
   },
   {
     "out_id": "96880",
@@ -679,11 +679,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102151",
@@ -725,11 +725,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102500",
@@ -774,11 +774,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "102955",
@@ -816,12 +816,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "270",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "270",
+    "user_type": "company"
   },
   {
     "out_id": "103321",
@@ -860,11 +860,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "103867",
@@ -905,11 +905,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "103872",
@@ -944,11 +944,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "104388",
@@ -983,11 +983,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105140",
@@ -1019,11 +1019,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105402",
@@ -1071,12 +1071,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "830",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "830",
+    "user_type": "company"
   },
   {
     "out_id": "106447",
@@ -1111,11 +1111,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "106717",
@@ -1156,11 +1156,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "106970",
@@ -1203,11 +1203,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107761",
@@ -1249,11 +1249,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107763",
@@ -1295,11 +1295,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107830",
@@ -1340,11 +1340,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107847",
@@ -1382,11 +1382,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107980",
@@ -1435,11 +1435,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108091",
@@ -1477,11 +1477,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108106",
@@ -1525,11 +1525,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108124",
@@ -1570,11 +1570,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108414",
@@ -1616,11 +1616,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108609",
@@ -1664,11 +1664,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108613",
@@ -1710,11 +1710,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108667",
@@ -1756,11 +1756,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108697",
@@ -1800,11 +1800,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108700",
@@ -1846,11 +1846,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108702",
@@ -1894,11 +1894,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108733",
@@ -1939,11 +1939,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108818",
@@ -1984,11 +1984,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108824",
@@ -2029,11 +2029,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108890",
@@ -2082,11 +2082,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108900",
@@ -2128,11 +2128,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108914",
@@ -2176,11 +2176,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108924",
@@ -2227,11 +2227,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109017",
@@ -2272,11 +2272,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109087",
@@ -2319,11 +2319,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109107",
@@ -2365,11 +2365,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109112",
@@ -2410,11 +2410,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109120",
@@ -2456,11 +2456,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109122",
@@ -2502,11 +2502,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109132",
@@ -2548,11 +2548,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109137",
@@ -2601,11 +2601,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109203",
@@ -2644,12 +2644,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "76",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "76",
+    "user_type": "company"
   },
   {
     "out_id": "109246",
@@ -2691,11 +2691,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109265",
@@ -2737,11 +2737,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109289",
@@ -2781,11 +2781,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109393",
@@ -2826,11 +2826,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109399",
@@ -2871,11 +2871,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109400",
@@ -2907,11 +2907,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109462",
@@ -2949,12 +2949,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "20",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "20",
+    "user_type": "company"
   },
   {
     "out_id": "109470",
@@ -2992,11 +2992,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109482",
@@ -3037,11 +3037,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109667",
@@ -3083,11 +3083,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109668",
@@ -3119,11 +3119,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109671",
@@ -3157,11 +3157,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109692",
@@ -3195,11 +3195,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109695",
@@ -3232,11 +3232,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109701",
@@ -3275,11 +3275,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109715",
@@ -3311,11 +3311,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109766",
@@ -3350,12 +3350,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "500",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "500",
+    "user_type": "company"
   },
   {
     "out_id": "109799",
@@ -3397,11 +3397,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109801",
@@ -3443,11 +3443,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109830",
@@ -3484,12 +3484,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "4",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "4",
+    "user_type": "company"
   },
   {
     "out_id": "109991",
@@ -3531,11 +3531,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110139",
@@ -3578,12 +3578,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "100",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "100",
+    "user_type": "company"
   },
   {
     "out_id": "110243",
@@ -3625,11 +3625,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110262",
@@ -3671,11 +3671,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110287",
@@ -3716,11 +3716,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110290",
@@ -3762,11 +3762,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110378",
@@ -3807,11 +3807,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110450",
@@ -3847,11 +3847,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110722",
@@ -3891,11 +3891,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110784",
@@ -3938,11 +3938,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110859",
@@ -3977,17 +3977,17 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110861",
     "subcat_id": "456",
     "region_name": "Бургас",
-    "location_name": "Слънчев бряг",
+    "location_name": "гр. Несебър",
     "section_name": "",
     "section_string": "",
     "price": "67000",
@@ -3998,8 +3998,8 @@
       "https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed8d82-008.png",
       "https://portal.xnvd.bg/files/property_files/Selling_properties110861/_file6aae501ed3ffc-006.png"
     ],
-    "name": "Едностаен апартамент в Слънчев бряг!",
-    "desc": "Компания Х представя на Вашето внимание едностаен апартамент в Слънчев бряг!\n\nМЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните и живописни кътчета по българското Черноморие, където златистите пясъци и безкрайният морски хоризонт се сливат под лъчите на южното слънце. Имотът е изкусно ситуиран в динамичната и вълнуваща атмосфера на курорта, предлагайки перфектна близост до широкия плаж и цялата богата инфраструктура от уютни заведения, магазини и удобни връзки. Това съвършено кътче разкрива неповторима възможност за създаване на прекрасно лично ваканционно убежище, където морският блясък и уютът вървят ръка за ръка.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с уют и изящество върху площ от 30 кв.м., оформяйки изключително интелигентен, светъл и хармоничен дом. Жилището посреща с функционален хол с кухненски бокс, съчетаващ топлината на споделените мигове, както и уютна спална зона, осигуряваща нужното уединение за пълноценен отдих. Комфортът се допълва от елегантна баня с тоалетна, както и от очарователна тераса, която кани морския бриз и слънчевите лъчи да станат част от ежедневието Ви.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо, отворил врати за незабавно нанасяне и създаване на скъпи спомени в съвършен синхрон с морската природа и прекрасната атмосфера наоколо.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 110861",
+    "name": "Едностаен апартамент в Несебър!",
+    "desc": "Компания Х представя на Вашето внимание двустаен апартамент в Несебър!\n\nМЕСТОПОЛОЖЕНИЕ: Несебър е едно от най-магичните, древни и романтични кътчета по българското Черноморие, където хилядолетната история, тесните калдъръмени улички и старинните църкви се сливат с лазурните морски вълни. Градът но̀си усещане за вечност, изкуство и неповторим крайморски чар, съчетавайки богатата културна среда с удобствата на съвременния живот. Имотът е изкусно ситуиран в това вълшебно място, предлагащ перфектен баланс между бързия достъп до морския бряг, плажовете и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих или незабравими ваканционни мигове.\n\nРАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и архитектурна хармония върху площ от 63 кв.м., оформяйки съвършен и устроен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с практична кухня с кухненски бокс, съчетаваща топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс. Безспорно удобство е отделното мокро помещение, което извежда домакинските дейности извън основната жилищна част, докато елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.\n\nСЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се обзаведен и грижливо поддържан, отворил своите гостоприемни врати за незабавно ползване в настоящия му вид. Всяко кътче е подредено с грижа, финес и стил, съчетавайки функционалната кухня, самостоятелната спалня, практичното мокро помещение и пространството на открито в хармонична среда. Тази добре организирана площ от 63 кв.м. спестява всякакви грижи и Ви позволява веднага да се потопите в уюта на Вашия нов собствен морски оазис.\n\nЗаповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас и цитирайте кода към имота: 108825",
     "type": "Едностаен апартамент",
     "area": "30",
     "construction_type": "Тухла",
@@ -4022,11 +4022,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110862",
@@ -4069,11 +4069,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110954",
@@ -4120,11 +4120,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110955",
@@ -4173,12 +4173,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "beds_number": "20",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "beds_number": "20",
+    "user_type": "company"
   },
   {
     "out_id": "110956",
@@ -4219,11 +4219,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110957",
@@ -4268,11 +4268,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110071",
@@ -4316,11 +4316,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108622",
@@ -4357,11 +4357,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "105432",
@@ -4399,12 +4399,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "390",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "390",
+    "user_type": "company"
   },
   {
     "out_id": "110103",
@@ -4446,11 +4446,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109464",
@@ -4486,12 +4486,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "100",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "100",
+    "user_type": "company"
   },
   {
     "out_id": "110106",
@@ -4531,11 +4531,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "107788",
@@ -4573,12 +4573,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "20",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "20",
+    "user_type": "company"
   },
   {
     "out_id": "107815",
@@ -4619,11 +4619,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110244",
@@ -4659,11 +4659,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109119",
@@ -4704,11 +4704,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "100312",
@@ -4746,12 +4746,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "30",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "30",
+    "user_type": "company"
   },
   {
     "out_id": "108782",
@@ -4793,11 +4793,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "101388",
@@ -4837,11 +4837,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "101567",
@@ -4883,11 +4883,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "76511",
@@ -4935,11 +4935,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "79040",
@@ -4981,11 +4981,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "79532",
@@ -5021,12 +5021,12 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "area_yard": "50",
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "area_yard": "50",
+    "user_type": "company"
   },
   {
     "out_id": "110946",
@@ -5068,11 +5068,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109239",
@@ -5112,11 +5112,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109533",
@@ -5158,11 +5158,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110605",
@@ -5204,11 +5204,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110987",
@@ -5251,11 +5251,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110976",
@@ -5296,11 +5296,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "110732",
@@ -5342,11 +5342,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109632",
@@ -5387,11 +5387,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109435",
@@ -5431,11 +5431,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109088",
@@ -5478,11 +5478,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "109034",
@@ -5523,11 +5523,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108969",
@@ -5569,11 +5569,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108918",
@@ -5617,11 +5617,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108880",
@@ -5661,11 +5661,11 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   },
   {
     "out_id": "108825",
@@ -5709,10 +5709,10 @@
       "hide_address": "FALSE",
       "hide_website": "FALSE"
     },
-    "user_type": "company",
     "map": {
       "lat": "",
       "long": ""
-    }
+    },
+    "user_type": "company"
   }
 ]
