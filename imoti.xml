@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-24 15:18:27</updated>
+    <updated>2026-09-24 18:10:18</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -5407,6 +5407,46 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81a1b32-11329897_145550986_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a819f4a3-11329897_145550985_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties108825/_file6a719a81922cc-11329897_145550989_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>96303</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>2</Floor>
+            <FloorAll>2</FloorAll>
+            <Price>105000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>83</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>765</EstateSubRegion>
+            <EstateSubRegionName>гр.Созопол</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Созопол!
+
+МЕСТОПОЛОЖЕНИЕ: Созопол е едно от най-магичните, романтични и древни кътчета по българското Черноморие, където хилядолетната история, тесните калдъръмени улички на Стария град и старинните къщи се сливат с лазурните води и широките плажове на новата част, създаващи неповторима бохемска атмосфера. Градът но̀си усещане за вечност, изкуство и морска приказка, съчетаващ богат културен живот с модерни удобства. Имотът е изкусно ситуиран в това вълшебно място, предлагайки перфектен баланс между бързия достъп до морския бряг и уединението на спокойната жилищна среда, разкриваща съвършена сцена за целогодишен отдих, незабравими летни мигове или успешна инвестиция.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с внушителен мащаб, архитектурна щедрост и изключителен комфорт върху площ от 83 кв.м., оформяйки съвършен, светъл и хармоничен дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, морската хармония и красотата на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 96303]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties96303/_file6a8307dca65ff-_file69399bc65bbbc-1-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties96303/_file6a8307dca1357-_file69399bc65a99e-001-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties96303/_file6a8307dcac0b9-_file69399bc65c439-3-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
