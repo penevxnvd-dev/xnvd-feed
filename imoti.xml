@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-24 11:31:19</updated>
+    <updated>2026-09-24 11:38:01</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -5180,6 +5180,48 @@
                 <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109239/_file6a7b15bb27bf8-11339227_145616082_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109239/_file6a7b15bb241c7-11339227_145616081_big-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109239/_file6a7b15bb2aa18-11339227_145616084_big-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>109533</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>3</Floor>
+            <FloorAll>6</FloorAll>
+            <Price>76800</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>68</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-емблематичните, слънчени и динамични кътчета по българското Черноморие, изпълнено с енергия и вдъхновение – място, където морето е винаги на една крачка, а животът никога не спира. Дългата пясъчна ивица и откритият хоризонт създават усещане за свобода и простор, което се усеща във всяка разходка край брега. Районът предлага отлична инфраструктура, разнообразие от заведения, магазини и развлечения, които правят ежедневието динамично и удобно. Близостта до историческия Несебър добавя културен чар и романтика, а лесната връзка с Бургас осигурява бърз достъп до всичко необходимо. Имотът е изкусно ситуиран в този популярен район, съчетаващ динамиката на курортния живот с уюта на морското вдъхновение, разкриващо съвършена сцена за почивка или инвестиция.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна интелигентност, светлина и архитектурна хармония върху площ от 68 кв.м., оформяйки съвършен и функционален дом, създаден с мисъл за съвременния комфорт. Жилището посреща с великолепен, светъл хол с кухненски бокс, съчетаващ топлината на споделените мигове и практичността на ежедневието. Уютната и спокойна спалня осигурява лично пространство и дълбок, възстановяващ релакс, а елегантната баня с тоалетна е проектирана с грижа за безупречния комфорт. Очарователната тераса кани меката слънчева светлина и морския бриз да станат естествена част от Вашия нов живот.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на завършения комфорт, топлина и съвършена готовност за нови истории. Предлага се напълно обзаведен и оборудван с всичко необходимо за едно съвременно домакинство, отворил своите гостоприемни врати за незабавно нанасяне. Всяко кътче е подредено с грижа, финес и стил, спестявайки Ви всякакви довършителни работи или време, за да можете веднага да се потопите в уюта, морската хармония и красотата на Вашия нов собствен оазис.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 109533]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a83154a09124-11359465_145772359_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549e3c8d-11356236_145742222_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549f3e8b-11356236_145742237_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549e9f55-11356236_145742231_big-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109533/_file6a831549e6f16-11356236_145742223_big-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
