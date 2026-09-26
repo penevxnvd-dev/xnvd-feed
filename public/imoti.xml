@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-25 14:35:34</updated>
+    <updated>2026-09-26 13:40:15</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -6071,6 +6071,51 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties62724/_file6ab53c016d773-viber_Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ_2026-09-24_16-37-42-512-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties62724/_file6ab53c0174650-viber_Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ_2026-09-24_16-37-44-264-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties62724/_file6ab53c0177dd3-viber_Ð¸Ð·Ð¾Ð±ÑÐ°Ð¶ÐµÐ½Ð¸Ðµ_2026-09-24_16-38-10-306-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110746</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>6</EstateType>
+            <EstateTypeName>Двустаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>сутерен</Floor>
+            <FloorAll>4</FloorAll>
+            <Price>40000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>45</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>795</EstateSubRegion>
+            <EstateSubRegionName>гр.Несебър</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание двустаен апартамент в Несебър!
+
+МЕСТОПОЛОЖЕНИЕ: Несебър е едно от най-древните, магични и омиротворяващи кътчета по българското Черноморие, съхранило хилядолетна история, романтични пейзажи и вечната прегръдка на лазурните морски вълни. Място̀, което но̀си усещане за древен аристократизъм, морска романтика и уникална хармония между природна красота и културно богатство. Имотът е изкусно ситуиран в тази вълнуваща среда, разкриваща перфектна сцена за крайморски живот, уютен ваканционен оазис или дългосрочна инвестиция с непреходна стойност.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и компактна елегантност върху площ от 45 кв.м., оформяйки перфектна основа за Вашия бъдещ дом. Жилището посреща с практично разпределение, включващо две светли и уютни стаи, които разкриват широки възможности за индивидуално оформление и създаване на топла атмосфера. Пространството се допълва от елегантна баня с тоалетна, съчетаваща удобство и стил в едно компактно и добре организирано цяло.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на новото начало, свободата на творчеството и възможността да съградите интериор изцяло по Ваш собствен вкус и визия. Предлага се необзаведен, представлявайки истинско чисто платно̀, готово да оживее под ръката на вдъхновен стопанин или интериорен дизайнер. Перфектната площ, отличната локация и липсата на предварителни рамки в обзавеждането правят този двустаен апартамент съвършена възможност за бърза и успешна реализация на Вашите мечти.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110746]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dce181-001.jpg</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd0e3c-002.jpg</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd2a5e-003.jpg</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd46b8-004.jpg</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd62cb-005.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd8379-006.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3dd9de0-007.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110746/_file6ab79f3ddb9c6-008.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
