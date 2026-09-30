@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed>
     <title>ЕКС НВД</title>
-    <updated>2026-09-30 09:51:44</updated>
+    <updated>2026-09-30 14:21:59</updated>
     <AgencyID>24534</AgencyID>
     <Offers>
         <Item>
@@ -6894,6 +6894,48 @@
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109164/_file6a797fd46e425-1c178490058383373_Qs-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109164/_file6a797fd468c0a-1c178490058383373_JB-stamped.png</Image>
                 <Image>https://portal.xnvd.bg/files/property_files/Selling_properties109164/_file6a797fd464c41-1c178490058383373_gP-stamped.png</Image>
+            </Images>
+            <ImageChanged>1</ImageChanged>
+        </Item>
+        <Item>
+            <UniqueEstateID>110135</UniqueEstateID>
+            <OfferType>2</OfferType>
+            <OfferTypeName>продава</OfferTypeName>
+            <EstateType>5</EstateType>
+            <EstateTypeName>Едностаен апартамент</EstateTypeName>
+            <BuildType>2</BuildType>
+            <BuildTypeName>Тухла</BuildTypeName>
+            <Floor>партер</Floor>
+            <FloorAll>5</FloorAll>
+            <Price>73000</Price>
+            <CurrencyID>4</CurrencyID>
+            <CurrencyName>EUR</CurrencyName>
+            <SurfaceAll>58</SurfaceAll>
+            <EstateRegion>12</EstateRegion>
+            <EstateRegionName>Бургас област</EstateRegionName>
+            <EstateSubRegion>5933</EstateSubRegion>
+            <EstateSubRegionName>к.к.Слънчев Бряг</EstateSubRegionName>
+            <BrokerID>335987</BrokerID>
+            <BrokerName>Клиентски Център</BrokerName>
+            <BrokerPhone>0887779990</BrokerPhone>
+            <WorksWithColleagues>1</WorksWithColleagues>
+            <WithCommission>1</WithCommission>
+            <ExclusiveContract>0</ExclusiveContract>
+            <Description><![CDATA[Компания Х представя на Вашето внимание едностаен апартамент в Слънчев бряг!
+
+МЕСТОПОЛОЖЕНИЕ: Слънчев бряг е едно от най-слънчевите, живописни и енергични кътчета по българското Черноморие, прочуто със своите безкрайни златни плажове, лазурни води и неустоим морски чар. Място̀, което но̀си усещане за лятна свобода, слънчева топлина и романтика, съчетаващо динамиката на световен курорт с уютни кътчета за пълноценен отдих. Имотът е изкусно ситуиран в тази вълнуваща среда, разкриваща съвършена сцена за незабравими ваканции, уютен дом или успешна инвестиция с морски характер.
+
+РАЗПРЕДЕЛЕНИЕ: Пространството се разгръща с изключителна функционалност, светлина и компактна хармония върху площ от 58 кв.м., оформяйки съвършен и устроен дом. Жилището посреща с уютна и светла всекидневна с кухненски бокс и елегантно обособен спален кът, събиращи на едно място удобството за отдих, топли разговори и споделени кулинарни мигове. На разположение е практична и стилна баня с тоалетна, както и прекрасна тераса, която разкрива нови хоризонти към свежия въздух и приятната околна атмосфера.
+
+СЪСТОЯНИЕ: Имотът но̀си в себе си чистия дух на готовността, уюта и завършения комфорт. Предлага се напълно обзаведен, като всяко помещение е организирано с внимание към детайла, стил и практичност, готов да посрещне своите нови стопани без нужда от допълнителни инвестиции. Това е съвършено предложение за онези, които търсят стилен дом или успешен ваканционен имот в магията на Слънчев бряг.
+
+Заповядайте да Ви го покажем. Използвайки нашите услуги Вие ще превърнете закупуването на новия си дом в едно приятно изживяване, ще получите персонален консултант, съдействие при кандидатстване за кредит от всички банки в България, интериорни дизайнери и екип, който да се погрижи за нужните документи по Вашата сделка. На Ваше разположение сме всеки ден, от понеделник до неделя от 09:00 до 20:00ч. Възползвайте се от безплатна консултация в наш офис, където ще ви спестим време и ще ви запознаем с всички актуални имоти в България, отговарящи на Вашето търсене. Свържете се с нас на 0887779990 или на 0882009283 и цитирайте кода към имота: 110135]]></Description>
+            <Images>
+                <Image type="main">https://portal.xnvd.bg/files/property_files/Selling_properties110135/_file6a955fae7246e-05-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110135/_file6a955fae6e980-04-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110135/_file6a955fae752fe-06-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110135/_file6a955fae7a7e8-09-stamped.png</Image>
+                <Image>https://portal.xnvd.bg/files/property_files/Selling_properties110135/_file6a955fae7d031-12-stamped.png</Image>
             </Images>
             <ImageChanged>1</ImageChanged>
         </Item>
